@@ -1,0 +1,5338 @@
+[{
+  "_id": {
+    "$oid": "66477985b476f991aef3d7f0"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 May 17",
+  "time": "2024-05-17 10:36:37 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1715943600,
+  "end_time": 1715958000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6646dbb6b476f991aef3d7ef",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "664b852bb476f991aef3d7f4"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 May 20",
+  "time": "2024-05-20 12:15:23 CDT-0500",
+  "batch": "new_sys",
+  "end_time": 1716217200,
+  "start_time": 1716202800,
+  "rcs_ver": "v3.0",
+  "ing_id": "664add9fb476f991aef3d7f3",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "664e1253b476f991aef3d7fa"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 May 22",
+  "time": "2024-05-22 10:42:11 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1716375600,
+  "end_time": 1716390000,
+  "rcs_ver": "v3.0",
+  "ing_id": "664d8f71b476f991aef3d7f8",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "664f67237efd58f9c75999dd"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 May 23",
+  "time": "2024-05-23 10:56:19 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1716462000,
+  "end_time": 1716476400,
+  "rcs_ver": "v3.0",
+  "ing_id": "664ec8fab476f991aef3d7fc",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66507eef7efd58f9c75999de"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 May 24",
+  "time": "2024-05-24 06:50:07 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1716548400,
+  "end_time": 1716562800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66501062b476f991aef3d7fe",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6653fdd07efd58f9c75999df"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 May 27",
+  "time": "2024-05-26 22:28:16 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1716807600,
+  "end_time": 1716822000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6653fd03b476f991aef3d7ff",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6656023c7efd58f9c75999e0"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 May 28",
+  "time": "2024-05-28 11:11:40 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1716894000,
+  "end_time": 1716908400,
+  "rcs_ver": "v3.0",
+  "ing_id": "66557377b476f991aef3d800",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66571e407efd58f9c75999e1"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 May 29",
+  "time": "2024-05-29 07:23:28 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1716980400,
+  "end_time": 1716994800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6656a963b476f991aef3d802",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6658793a7efd58f9c75999e2"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 May 30",
+  "time": "2024-05-30 08:03:54 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1717066800,
+  "end_time": 1717081200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6657d7dab476f991aef3d804",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6659bea07efd58f9c75999e3"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 May 31",
+  "time": "2024-05-31 07:12:16 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1717153200,
+  "end_time": 1717167600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66591e16b476f991aef3d806",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "665dd9197efd58f9c75999e4"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 3",
+  "time": "2024-06-03 09:54:17 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1717412400,
+  "end_time": 1717426800,
+  "rcs_ver": "v3.0",
+  "ing_id": "665d296db476f991aef3d807",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "665f35157efd58f9c75999e5"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 4",
+  "time": "2024-06-04 10:39:01 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1717498800,
+  "end_time": 1717513200,
+  "rcs_ver": "v3.0",
+  "ing_id": "665e653c7f3db5b6cb80b8a4",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6660860e7efd58f9c75999e6"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 5",
+  "time": "2024-06-05 10:36:46 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1717585200,
+  "end_time": 1717599600,
+  "rcs_ver": "v3.0",
+  "ing_id": "665ff11fd2544eed5385e063",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6661d8747efd58f9c75999e7"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 6",
+  "time": "2024-06-06 10:40:36 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1717671600,
+  "end_time": 1717686000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6660f514d2544eed5385e065",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66671d767efd58f9c75999e8"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 10",
+  "time": "2024-06-10 10:36:22 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1718017200,
+  "end_time": 1718031600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66666b933a72457871f0eb6e",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "666871c37efd58f9c75999e9"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 11",
+  "time": "2024-06-11 10:48:19 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1718103600,
+  "end_time": 1718118000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6667ae9c3a72457871f0eb70",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6669c0bc7efd58f9c75999ea"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 12",
+  "time": "2024-06-12 10:37:32 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1718190000,
+  "end_time": 1718204400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6668c9dd3a72457871f0eb74",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "666b09467efd58f9c75999eb"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 13",
+  "time": "2024-06-13 09:59:18 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1718276400,
+  "end_time": 1718290800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6669f1c33a72457871f0eb77",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "666c682812563a187429a0f4"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 14",
+  "time": "2024-06-14 10:56:24 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1718361000,
+  "end_time": 1718377200,
+  "rcs_ver": "v3.0",
+  "ing_id": "666b7369367df26a5471d395",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6670562a12563a187429a0f5"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 17",
+  "time": "2024-06-17 10:28:42 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1718620200,
+  "end_time": 1718636400,
+  "rcs_ver": "v3.0",
+  "ing_id": "666f4e02e63a55f2dc5bba2c",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6671afff12563a187429a0f6"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 18",
+  "time": "2024-06-18 11:04:15 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1718706600,
+  "end_time": 1718722800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66710e46188f66a56c23d21f",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6672fb2412563a187429a0f7"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 19",
+  "time": "2024-06-19 10:37:08 CDT-0500",
+  "batch": "new_sys",
+  "start_time": 1718793000,
+  "end_time": 1718809200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66727d7cbf16cf51c919a12e",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66744e7112563a187429a0f8"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 20",
+  "time": "2024-06-20 10:44:49 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1718879400,
+  "end_time": 1718895600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6673992cbf16cf51c919a130",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6675b464e7257cf249df90d4"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 21",
+  "time": "2024-06-21 12:12:04 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1718965800,
+  "end_time": 1718982000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6674e93ebf16cf51c919a132",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6679912698ad25a4f36d0b0d"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 24",
+  "time": "2024-06-24 10:30:46 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1719225000,
+  "end_time": 1719241200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6678e35df9dddc32c2767fb3",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "667af27798ad25a4f36d0b0e"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 25",
+  "time": "2024-06-25 11:38:15 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1719311400,
+  "end_time": 1719327600,
+  "rcs_ver": "v3.0",
+  "ing_id": "667a2e35d5868c560f2e44ae",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "667c376598ad25a4f36d0b0f"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 26",
+  "time": "2024-06-26 10:44:37 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1719397800,
+  "end_time": 1719414000,
+  "rcs_ver": "v3.0",
+  "ing_id": "667b4018d5868c560f2e44b0",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "667d860698ad25a4f36d0b10"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 27",
+  "time": "2024-06-27 10:32:22 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1719484200,
+  "end_time": 1719500400,
+  "rcs_ver": "v3.0",
+  "ing_id": "667c9c8ad5868c560f2e44b4",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "667edf1ad6cbb4a63680d537"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 June 28",
+  "time": "2024-06-28 11:04:42 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1719570600,
+  "end_time": 1719586800,
+  "rcs_ver": "v3.0",
+  "ing_id": "667e1ec3d5868c560f2e44b6",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6682bfb2d6cbb4a63680d538"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 1",
+  "time": "2024-07-01 09:39:46 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1719829800,
+  "end_time": 1719846000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66820cadd5868c560f2e44b7",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66842e55d6cbb4a63680d539"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 2",
+  "time": "2024-07-02 11:44:05 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1719916200,
+  "end_time": 1719932400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6683777cd5868c560f2e44ba",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "668576c2d6cbb4a63680d53a"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 3",
+  "time": "2024-07-03 11:05:22 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1720002600,
+  "end_time": 1720018800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6684c62dd5868c560f2e44be",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6686ab88d6cbb4a63680d53b"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 4",
+  "time": "2024-07-04 09:02:48 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1720089000,
+  "end_time": 1720105200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6685f03fd5868c560f2e44c2",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6687f1ced6cbb4a63680d53c"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 5",
+  "time": "2024-07-05 08:14:54 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1720171800,
+  "end_time": 1720188000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66875131d5868c560f2e44c4",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "668c0d81d6cbb4a63680d541"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 8",
+  "time": "2024-07-08 11:02:09 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1720434600,
+  "end_time": 1720450800,
+  "rcs_ver": "v3.0",
+  "ing_id": "668b686bd5868c560f2e44c7",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "668d6007d6cbb4a63680d544"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 9",
+  "time": "2024-07-09 11:06:31 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1720521000,
+  "end_time": 1720537200,
+  "rcs_ver": "v3.0",
+  "ing_id": "668cc881d6cbb4a63680d543",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "668d7c8503742ba297d3c2a7"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 9",
+  "time": "2024-07-09 13:08:05 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1720521000,
+  "end_time": 1720537200,
+  "rcs_ver": "v3.0",
+  "ing_id": "668cc881d6cbb4a63680d543",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "668eb20203742ba297d3c2a9"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 10",
+  "time": "2024-07-10 11:08:34 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1720607400,
+  "end_time": 1720623600,
+  "rcs_ver": "v3.0",
+  "ing_id": "668e167d03742ba297d3c2a8",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "668ffdae03742ba297d3c2ab"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 11",
+  "time": "2024-07-11 10:43:42 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1720693800,
+  "end_time": 1720710000,
+  "rcs_ver": "v3.0",
+  "ing_id": "668f67fd03742ba297d3c2aa",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "669151b103742ba297d3c2ad"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 12",
+  "time": "2024-07-12 10:54:25 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1720780200,
+  "end_time": 1720796400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6690b97d03742ba297d3c2ac",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "669546ad03742ba297d3c2af"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 15",
+  "time": "2024-07-15 10:56:29 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1721039400,
+  "end_time": 1721055600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6694adfd03742ba297d3c2ae",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6696a2b103742ba297d3c2b1"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 16",
+  "time": "2024-07-16 11:41:21 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1721125800,
+  "end_time": 1721142000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6695ff7d03742ba297d3c2b0",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6697f0d503742ba297d3c2b3"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 17",
+  "time": "2024-07-17 11:27:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1721212200,
+  "end_time": 1721228400,
+  "rcs_ver": "v3.0",
+  "ing_id": "669750fd03742ba297d3c2b2",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66994b8103742ba297d3c2b5"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 18",
+  "time": "2024-07-18 12:06:09 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1721298600,
+  "end_time": 1721314800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6698a27d03742ba297d3c2b4",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "669a98c403742ba297d3c2b9"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 19",
+  "time": "2024-07-19 11:48:04 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1721385000,
+  "end_time": 1721401200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6699f3fd03742ba297d3c2b6",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "669e80d603742ba297d3c2bb"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 22",
+  "time": "2024-07-22 10:55:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1721644200,
+  "end_time": 1721660400,
+  "rcs_ver": "v3.0",
+  "ing_id": "669de87d03742ba297d3c2ba",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "669fd25603742ba297d3c2bd"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 23",
+  "time": "2024-07-23 10:55:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1721730600,
+  "end_time": 1721746800,
+  "rcs_ver": "v3.0",
+  "ing_id": "669f39fd03742ba297d3c2bc",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66a1250203742ba297d3c2bf"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 24",
+  "time": "2024-07-24 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1721817000,
+  "end_time": 1721833200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66a08b7d03742ba297d3c2be",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66a2768203742ba297d3c2c1"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 25",
+  "time": "2024-07-25 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1721903400,
+  "end_time": 1721919600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66a1dcfd03742ba297d3c2c0",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66a3c80203742ba297d3c2c3"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 26",
+  "time": "2024-07-26 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1721989800,
+  "end_time": 1722006000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66a32e7d03742ba297d3c2c2",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66a7bc8103742ba297d3c2c5"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 29",
+  "time": "2024-07-29 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1722249000,
+  "end_time": 1722265200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66a722fd03742ba297d3c2c4",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66a90e0203742ba297d3c2c7"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 30",
+  "time": "2024-07-30 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1722335400,
+  "end_time": 1722351600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66a8747d03742ba297d3c2c6",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66aa6e0f03742ba297d3c2c9"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 July 31",
+  "time": "2024-07-31 12:02:07 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1722421800,
+  "end_time": 1722438000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66a9c5fd03742ba297d3c2c8",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66abbcb303742ba297d3c2cb"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 1",
+  "time": "2024-08-01 11:49:55 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1722508200,
+  "end_time": 1722524400,
+  "rcs_ver": "v3.0",
+  "ing_id": "66ab177d03742ba297d3c2ca",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66ad102103742ba297d3c2cd"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 2",
+  "time": "2024-08-02 11:58:09 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1722594600,
+  "end_time": 1722610800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66ac68fd03742ba297d3c2cc",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "66ad118203742ba297d3c2ce"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 2",
+  "time": "2024-08-02 12:04:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1722594600,
+  "end_time": 1722610800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66ac68fd03742ba297d3c2cc",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "66ad11ec03742ba297d3c2cf"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 2",
+  "time": "2024-08-02 12:05:48 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1722594600,
+  "end_time": 1722610800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66ac68fd03742ba297d3c2cc",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66b0f70203742ba297d3c2d1"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 5",
+  "time": "2024-08-05 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1722853800,
+  "end_time": 1722870000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66b05d7d03742ba297d3c2d0",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66b2488103742ba297d3c2d3"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 6",
+  "time": "2024-08-06 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1722940200,
+  "end_time": 1722956400,
+  "rcs_ver": "v3.0",
+  "ing_id": "66b1aefd03742ba297d3c2d2",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66b39a0203742ba297d3c2d5"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 7",
+  "time": "2024-08-07 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1723026600,
+  "end_time": 1723042800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66b3007d03742ba297d3c2d4",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66b4eb8203742ba297d3c2d7"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 8",
+  "time": "2024-08-08 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1723113000,
+  "end_time": 1723129200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66b451fd03742ba297d3c2d6",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66b63d0103742ba297d3c2d9"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 9",
+  "time": "2024-08-09 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1723199400,
+  "end_time": 1723215600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66b5a37d03742ba297d3c2d8",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "66ba318203742ba297d3c2db"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 12",
+  "time": "2024-08-12 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1723458600,
+  "end_time": 1723474800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66b997fd03742ba297d3c2da",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66bb830203742ba297d3c2de"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 13",
+  "time": "2024-08-13 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1723545000,
+  "end_time": 1723561200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66bb2f6b03742ba297d3c2dd",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66bcd48203742ba297d3c2e0"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 14",
+  "time": "2024-08-14 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1723631400,
+  "end_time": 1723647600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66bc3afd03742ba297d3c2df",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66be260103742ba297d3c2e3"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 15",
+  "time": "2024-08-15 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1723717800,
+  "end_time": 1723734000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66bdd6b103742ba297d3c2e2",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "66bf778203742ba297d3c2e6"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 16",
+  "time": "2024-08-16 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1723804200,
+  "end_time": 1723820400,
+  "rcs_ver": "v3.0",
+  "ing_id": "66bee9a303742ba297d3c2e5",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66c36c0203742ba297d3c2e9"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 19",
+  "time": "2024-08-19 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1724063400,
+  "end_time": 1724079600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66c3101c03742ba297d3c2e8",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66c4bd8203742ba297d3c2eb"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 20",
+  "time": "2024-08-20 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1724149800,
+  "end_time": 1724166000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66c423fd03742ba297d3c2ea",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66c60f0103742ba297d3c2ed"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 21",
+  "time": "2024-08-21 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1724236200,
+  "end_time": 1724252400,
+  "rcs_ver": "v3.0",
+  "ing_id": "66c5757d03742ba297d3c2ec",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66c7608103742ba297d3c2ef"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 22",
+  "time": "2024-08-22 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1724322600,
+  "end_time": 1724338800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66c6c6fe03742ba297d3c2ee",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66c8b20203742ba297d3c2f1"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 23",
+  "time": "2024-08-23 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1724409000,
+  "end_time": 1724425200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66c8187d03742ba297d3c2f0",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66cca68203742ba297d3c2f3"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 26",
+  "time": "2024-08-26 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1724668200,
+  "end_time": 1724684400,
+  "rcs_ver": "v3.0",
+  "ing_id": "66cc0cfe03742ba297d3c2f2",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "66cdf80203742ba297d3c2f5"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 27",
+  "time": "2024-08-27 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1724754600,
+  "end_time": 1724770800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66cd5e7d03742ba297d3c2f4",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66cf498203742ba297d3c2f7"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 28",
+  "time": "2024-08-28 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1724841000,
+  "end_time": 1724857200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66ceaffd03742ba297d3c2f6",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66d09b0103742ba297d3c2f9"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 29",
+  "time": "2024-08-29 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1724927400,
+  "end_time": 1724943600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66d0017d03742ba297d3c2f8",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66d1ec8203742ba297d3c2fb"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 30",
+  "time": "2024-08-30 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1725013800,
+  "end_time": 1725030000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66d152fd03742ba297d3c2fa",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66d5e10203742ba297d3c2fd"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 2",
+  "time": "2024-09-02 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1725273000,
+  "end_time": 1725289200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66d5477d03742ba297d3c2fc",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66d7328203742ba297d3c2ff"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 3",
+  "time": "2024-09-03 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1725359400,
+  "end_time": 1725375600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66d698fd03742ba297d3c2fe",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66d8840203742ba297d3c301"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 4",
+  "time": "2024-09-04 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1725445800,
+  "end_time": 1725462000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66d7ea7d03742ba297d3c300",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66d9d58203742ba297d3c303"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 5",
+  "time": "2024-09-05 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1725532200,
+  "end_time": 1725548400,
+  "rcs_ver": "v3.0",
+  "ing_id": "66d93bfd03742ba297d3c302",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66db270203742ba297d3c305"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 6",
+  "time": "2024-09-06 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1725618600,
+  "end_time": 1725634800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66da8d7d03742ba297d3c304",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66dcf6be03742ba297d3c306"
+  },
+  "name": "Tracking - PostG",
+  "description": "2024 August 26",
+  "time": "2024-09-07 19:58:38 CDT-0500",
+  "batch": "tracking_9node_exclude_vn7",
+  "start_time": 1724668500,
+  "end_time": 1724684700,
+  "rcs_ver": "v3.0",
+  "ing_id": "66cc0cfe03742ba297d3c2f2",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66df1b8203742ba297d3c308"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 9",
+  "time": "2024-09-09 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1725877800,
+  "end_time": 1725894000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66de81fd03742ba297d3c307",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66e06d0203742ba297d3c30a"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 10",
+  "time": "2024-09-10 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1725964200,
+  "end_time": 1725980400,
+  "rcs_ver": "v3.0",
+  "ing_id": "66dfd37d03742ba297d3c309",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66e1be8203742ba297d3c30c"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 11",
+  "time": "2024-09-11 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1726050600,
+  "end_time": 1726066800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66e124fd03742ba297d3c30b",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66e3100203742ba297d3c30e"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 12",
+  "time": "2024-09-12 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1726137000,
+  "end_time": 1726153200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66e2767d03742ba297d3c30d",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66e4618103742ba297d3c310"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 13",
+  "time": "2024-09-13 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1726223400,
+  "end_time": 1726239600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66e3c7fd03742ba297d3c30f",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66e61c9403742ba297d3c311"
+  },
+  "name": "Tracking - PostG",
+  "description": "2024 August 15",
+  "time": "2024-09-14 18:30:28 CDT-0500",
+  "batch": "tracking_9node_exclude_vn7",
+  "start_time": 1723718100,
+  "end_time": 1723734300,
+  "rcs_ver": "v3.0",
+  "ing_id": "66bdd6b103742ba297d3c2e2",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66e8560103742ba297d3c313"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 16",
+  "time": "2024-09-16 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1726482600,
+  "end_time": 1726498800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66e7bc7d03742ba297d3c312",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66e9a781e59a484b83fe6172"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 17",
+  "time": "2024-09-17 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1726569000,
+  "end_time": 1726585200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66e90dfe03742ba297d3c314",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66eaf902e59a484b83fe6174"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 18",
+  "time": "2024-09-18 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1726655400,
+  "end_time": 1726671600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66ea5f7ee59a484b83fe6173",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66ec4a82e59a484b83fe6176"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 19",
+  "time": "2024-09-19 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1726741800,
+  "end_time": 1726758000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66ebb0fde59a484b83fe6175",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66ed9c02e59a484b83fe6178"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 20",
+  "time": "2024-09-20 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1726828200,
+  "end_time": 1726844400,
+  "rcs_ver": "v3.0",
+  "ing_id": "66ed027de59a484b83fe6177",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66eee8b4e59a484b83fe617a"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 August 9",
+  "time": "2024-09-21 10:39:32 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1723199400,
+  "end_time": 1723215600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66b5a37d03742ba297d3c2d8",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "66f19082e59a484b83fe617c"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 23",
+  "time": "2024-09-23 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1727087400,
+  "end_time": 1727103600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66f0f6fde59a484b83fe617b",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66f2e202e59a484b83fe617e"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 24",
+  "time": "2024-09-24 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1727173800,
+  "end_time": 1727190000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66f2487de59a484b83fe617d",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66f43382e59a484b83fe6180"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 25",
+  "time": "2024-09-25 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1727260200,
+  "end_time": 1727276400,
+  "rcs_ver": "v3.0",
+  "ing_id": "66f399fde59a484b83fe617f",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66f58502e59a484b83fe6182"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 26",
+  "time": "2024-09-26 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1727346600,
+  "end_time": 1727362800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66f4eb7de59a484b83fe6181",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66f6d682e59a484b83fe6184"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 27",
+  "time": "2024-09-27 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1727433000,
+  "end_time": 1727449200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66f63cfde59a484b83fe6183",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66facb01bfcddc8e9be92410"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 September 30",
+  "time": "2024-09-30 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1727692200,
+  "end_time": 1727708400,
+  "rcs_ver": "v3.0",
+  "ing_id": "66fa317de59a484b83fe6185",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66fc1c82bfcddc8e9be92412"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 1",
+  "time": "2024-10-01 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1727778600,
+  "end_time": 1727794800,
+  "rcs_ver": "v3.0",
+  "ing_id": "66fb82fdbfcddc8e9be92411",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66fd6e02bfcddc8e9be92414"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 2",
+  "time": "2024-10-02 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1727865000,
+  "end_time": 1727881200,
+  "rcs_ver": "v3.0",
+  "ing_id": "66fcd47dbfcddc8e9be92413",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "66febf82bfcddc8e9be92416"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 3",
+  "time": "2024-10-03 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1727951400,
+  "end_time": 1727967600,
+  "rcs_ver": "v3.0",
+  "ing_id": "66fe25fdbfcddc8e9be92415",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67001102bfcddc8e9be92418"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 4",
+  "time": "2024-10-04 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1728037800,
+  "end_time": 1728054000,
+  "rcs_ver": "v3.0",
+  "ing_id": "66ff777dbfcddc8e9be92417",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67040581bfcddc8e9be9241a"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 7",
+  "time": "2024-10-07 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1728297000,
+  "end_time": 1728313200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67036bfdbfcddc8e9be92419",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67055701bfcddc8e9be9241c"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 8",
+  "time": "2024-10-08 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1728383400,
+  "end_time": 1728399600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6704bd7dbfcddc8e9be9241b",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6706a882bfcddc8e9be9241e"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 9",
+  "time": "2024-10-09 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1728469800,
+  "end_time": 1728486000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67060efdbfcddc8e9be9241d",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6707fa02a9ca00dc9ed6e4e0"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 10",
+  "time": "2024-10-10 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1728556200,
+  "end_time": 1728572400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6707607dbfcddc8e9be9241f",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67094b82a9ca00dc9ed6e4e2"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 11",
+  "time": "2024-10-11 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1728642600,
+  "end_time": 1728658800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6708b1fda9ca00dc9ed6e4e1",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "670d3c7da9ca00dc9ed6e4e7"
+  },
+  "name": "Avg - PostG",
+  "description": "JRC Test (2024 October 14)",
+  "time": "2024-10-14 10:45:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1728901800,
+  "end_time": 1728918000,
+  "rcs_ver": "v3.0",
+  "ing_id": "670ca67da9ca00dc9ed6e4e6",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "670e92ada9ca00dc9ed6e4e9"
+  },
+  "name": "Avg - PostG",
+  "description": "JRC Test (2024 October 15)",
+  "time": "2024-10-15 11:05:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1728990000,
+  "end_time": 1729006200,
+  "rcs_ver": "v3.0",
+  "ing_id": "670df7fda9ca00dc9ed6e4e8",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "670ff5fea9ca00dc9ed6e4eb"
+  },
+  "name": "Avg - PostG",
+  "description": "JRC Test (2024 October 16)",
+  "time": "2024-10-16 12:21:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1729076400,
+  "end_time": 1729092600,
+  "rcs_ver": "v3.0",
+  "ing_id": "670f497da9ca00dc9ed6e4ea",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67116364a9ca00dc9ed6e4ed"
+  },
+  "name": "Avg - PostG",
+  "description": "JRC Test (2024 October 17)",
+  "time": "2024-10-17 14:20:04 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1729161000,
+  "end_time": 1729177200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67109afda9ca00dc9ed6e4ec",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6712f2fea9ca00dc9ed6e4ef"
+  },
+  "name": "Avg - PostG",
+  "description": "JRC Test (2024 October 18)",
+  "time": "2024-10-18 18:45:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1729251000,
+  "end_time": 1729267200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6711ec7da9ca00dc9ed6e4ee",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67147e75a9ca00dc9ed6e4f0"
+  },
+  "name": "Tracking - PostG",
+  "description": "JRC Test (2024 October 18)",
+  "time": "2024-10-19 22:52:21 CDT-0500",
+  "batch": "tracking_9node_exclude_vn7",
+  "start_time": 1729278000,
+  "end_time": 1729294200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6711ec7da9ca00dc9ed6e4ee",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "67159e97a9ca00dc9ed6e4f1"
+  },
+  "name": "Avg - PostG",
+  "description": "JRC Test (2024 October 17)",
+  "time": "2024-10-20 19:21:43 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1729191600,
+  "end_time": 1729207800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67109afda9ca00dc9ed6e4ec",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "6717312ba9ca00dc9ed6e4f3"
+  },
+  "name": "Avg - PostG",
+  "description": "JRC Test (2024 October 16)",
+  "time": "2024-10-21 23:59:23 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1729105200,
+  "end_time": 1729121400,
+  "rcs_ver": "v3.0",
+  "ing_id": "670f497da9ca00dc9ed6e4ea",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "67191341a9ca00dc9ed6e4f6"
+  },
+  "name": "Avg - PostG",
+  "description": "JRC Test (2024 October 15)",
+  "time": "2024-10-23 10:16:17 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1729018800,
+  "end_time": 1729035000,
+  "rcs_ver": "v3.0",
+  "ing_id": "670df7fda9ca00dc9ed6e4e8",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "671aa2b8a9ca00dc9ed6e4f8"
+  },
+  "name": "Avg - PostG",
+  "description": "JRC Test (2024 October 14)",
+  "time": "2024-10-24 14:40:40 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1728932400,
+  "end_time": 1728948600,
+  "rcs_ver": "v3.0",
+  "ing_id": "670ca67da9ca00dc9ed6e4e6",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "671c35a1a9ca00dc9ed6e4fa"
+  },
+  "name": "Tracking - PostG",
+  "description": "JRC Test (2024 October 16)",
+  "time": "2024-10-25 19:19:45 CDT-0500",
+  "batch": "tracking_9node_exclude_vn7",
+  "start_time": 1729078200,
+  "end_time": 1729094400,
+  "rcs_ver": "v3.0",
+  "ing_id": "670f497da9ca00dc9ed6e4ea",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "671db411a9ca00dc9ed6e4fb"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 21",
+  "time": "2024-10-26 22:31:29 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1729506600,
+  "end_time": 1729522800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6715e0fda9ca00dc9ed6e4f2",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67210682a9ca00dc9ed6e4fe"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 29",
+  "time": "2024-10-29 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1730201400,
+  "end_time": 1730217600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67206cfda9ca00dc9ed6e4fd",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67225802a9ca00dc9ed6e500"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 30",
+  "time": "2024-10-30 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1730287800,
+  "end_time": 1730304000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6721be7da9ca00dc9ed6e4ff",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6723a982a9ca00dc9ed6e502"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 31",
+  "time": "2024-10-31 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1730374200,
+  "end_time": 1730390400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67230ffda9ca00dc9ed6e501",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6724fb02a9ca00dc9ed6e504"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 1",
+  "time": "2024-11-01 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1730457000,
+  "end_time": 1730473200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6724617da9ca00dc9ed6e503",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67263e39a9ca00dc9ed6e505"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 22",
+  "time": "2024-11-02 09:59:05 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1729593000,
+  "end_time": 1729609200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6717327da9ca00dc9ed6e4f4",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6727893aa9ca00dc9ed6e506"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 23",
+  "time": "2024-11-03 08:31:22 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1729679400,
+  "end_time": 1729695600,
+  "rcs_ver": "v3.0",
+  "ing_id": "671883fda9ca00dc9ed6e4f5",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6728fd92a9ca00dc9ed6e508"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 4",
+  "time": "2024-11-04 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1730719800,
+  "end_time": 1730736000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6728640da9ca00dc9ed6e507",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "672a4f12a9ca00dc9ed6e50a"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 5",
+  "time": "2024-11-05 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1730806200,
+  "end_time": 1730822400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6729b58da9ca00dc9ed6e509",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "672ba092a9ca00dc9ed6e50c"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 6",
+  "time": "2024-11-06 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1730892600,
+  "end_time": 1730908800,
+  "rcs_ver": "v3.0",
+  "ing_id": "672b070da9ca00dc9ed6e50b",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "672cf212a9ca00dc9ed6e50e"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 7",
+  "time": "2024-11-07 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1730979000,
+  "end_time": 1730995200,
+  "rcs_ver": "v3.0",
+  "ing_id": "672c588da9ca00dc9ed6e50d",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "672e4392a9ca00dc9ed6e510"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 8",
+  "time": "2024-11-08 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1731065400,
+  "end_time": 1731081600,
+  "rcs_ver": "v3.0",
+  "ing_id": "672daa0da9ca00dc9ed6e50f",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "672f9a6fa9ca00dc9ed6e511"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 24",
+  "time": "2024-11-09 11:22:55 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1729765800,
+  "end_time": 1729782000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6719d57da9ca00dc9ed6e4f7",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6730e2daa9ca00dc9ed6e512"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 25",
+  "time": "2024-11-10 10:44:10 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1729852200,
+  "end_time": 1729868400,
+  "rcs_ver": "v3.0",
+  "ing_id": "671b26fda9ca00dc9ed6e4f9",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67323811a9ca00dc9ed6e514"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 11",
+  "time": "2024-11-11 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1731324600,
+  "end_time": 1731340800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67319e8da9ca00dc9ed6e513",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67338991a9ca00dc9ed6e516"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 12",
+  "time": "2024-11-12 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1731411000,
+  "end_time": 1731427200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6732f00da9ca00dc9ed6e515",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6734db12a9ca00dc9ed6e518"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 13",
+  "time": "2024-11-13 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1731497400,
+  "end_time": 1731513600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6734418da9ca00dc9ed6e517",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67362c92ea4f27840dcd26b1"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 14",
+  "time": "2024-11-14 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1731583800,
+  "end_time": 1731600000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6735930da9ca00dc9ed6e519",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67377e11ea4f27840dcd26b4"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 15",
+  "time": "2024-11-15 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1731670200,
+  "end_time": 1731686400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6736e48dea4f27840dcd26b2",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6738cf92ea4f27840dcd26b5"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 October 28",
+  "time": "2024-11-16 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1730111400,
+  "end_time": 1730127600,
+  "rcs_ver": "v3.0",
+  "ing_id": "671f1b7da9ca00dc9ed6e4fc",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "673a2111ea4f27840dcd26b6"
+  },
+  "name": "Tracking - PostG",
+  "description": "2024 November 12 Rolling roadblock",
+  "time": "2024-11-17 11:00:01 CST-0600",
+  "batch": "tracking_9node_exclude_vn7",
+  "start_time": 1731427200,
+  "end_time": 1731429000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6732f00da9ca00dc9ed6e515",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "673b7293ea4f27840dcd26b8"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 18",
+  "time": "2024-11-18 11:00:03 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1731929400,
+  "end_time": 1731945600,
+  "rcs_ver": "v3.0",
+  "ing_id": "673ad90dea4f27840dcd26b7",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "673cc412ea4f27840dcd26ba"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 19",
+  "time": "2024-11-19 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1732015800,
+  "end_time": 1732032000,
+  "rcs_ver": "v3.0",
+  "ing_id": "673c2a8dea4f27840dcd26b9",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "673e1592ea4f27840dcd26bc"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 20",
+  "time": "2024-11-20 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1732102200,
+  "end_time": 1732118400,
+  "rcs_ver": "v3.0",
+  "ing_id": "673d7c0dea4f27840dcd26bb",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "673f6712ea4f27840dcd26be"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 21",
+  "time": "2024-11-21 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1732188600,
+  "end_time": 1732204800,
+  "rcs_ver": "v3.0",
+  "ing_id": "673ecd8dea4f27840dcd26bd",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6740b892ea4f27840dcd26c0"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 22",
+  "time": "2024-11-22 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1732275000,
+  "end_time": 1732291200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67401f0dea4f27840dcd26bf",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6744ad12ea4f27840dcd26c2"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 25",
+  "time": "2024-11-25 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1732534200,
+  "end_time": 1732550400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6744138dea4f27840dcd26c1",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6745fe92ea4f27840dcd26c4"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 26",
+  "time": "2024-11-26 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1732620600,
+  "end_time": 1732636800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6745650dea4f27840dcd26c3",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67475012ea4f27840dcd26c6"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 27",
+  "time": "2024-11-27 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1732707000,
+  "end_time": 1732723200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6746b68dea4f27840dcd26c5",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6748a192ea4f27840dcd26c8"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 28",
+  "time": "2024-11-28 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1732793400,
+  "end_time": 1732809600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6748080dea4f27840dcd26c7",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6749f312ea4f27840dcd26ca"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 November 29",
+  "time": "2024-11-29 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1732879800,
+  "end_time": 1732896000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6749598dea4f27840dcd26c9",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "674de791ea4f27840dcd26cc"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 2",
+  "time": "2024-12-02 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1733139000,
+  "end_time": 1733155200,
+  "rcs_ver": "v3.0",
+  "ing_id": "674d4e0dea4f27840dcd26cb",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "674f3911ea4f27840dcd26ce"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 3",
+  "time": "2024-12-03 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1733225400,
+  "end_time": 1733241600,
+  "rcs_ver": "v3.0",
+  "ing_id": "674e9f8dea4f27840dcd26cd",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67508a91ea4f27840dcd26d0"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 4",
+  "time": "2024-12-04 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1733311800,
+  "end_time": 1733328000,
+  "rcs_ver": "v3.0",
+  "ing_id": "674ff10dea4f27840dcd26cf",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6751dc11ea4f27840dcd26d2"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 5",
+  "time": "2024-12-05 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1733398200,
+  "end_time": 1733414400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6751428dea4f27840dcd26d1",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67532d92ea4f27840dcd26d4"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 6",
+  "time": "2024-12-06 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1733484600,
+  "end_time": 1733500800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6752940dea4f27840dcd26d3",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67572212ea4f27840dcd26d6"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 9",
+  "time": "2024-12-09 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1733743800,
+  "end_time": 1733760000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6756888dea4f27840dcd26d5",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "675873921ffd2fe3d61ee233"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 10",
+  "time": "2024-12-10 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1733830200,
+  "end_time": 1733846400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6757da0dea4f27840dcd26d7",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "6759c5121ffd2fe3d61ee237"
+  },
+  "name": "Avg - PostG",
+  "description": "Cintra Test (2024 December 11)",
+  "time": "2024-12-11 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1733916600,
+  "end_time": 1733932800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67592b8d1ffd2fe3d61ee236",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "675b16911ffd2fe3d61ee239"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 12",
+  "time": "2024-12-12 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1734003000,
+  "end_time": 1734019200,
+  "rcs_ver": "v3.0",
+  "ing_id": "675a7d0d1ffd2fe3d61ee238",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "675c68121ffd2fe3d61ee23b"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 13",
+  "time": "2024-12-13 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1734089400,
+  "end_time": 1734105600,
+  "rcs_ver": "v3.0",
+  "ing_id": "675bce8d1ffd2fe3d61ee23a",
+  "share": 1
+},
+{
+  "_id": {
+    "$oid": "67605c921ffd2fe3d61ee23d"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 16",
+  "time": "2024-12-16 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1734348600,
+  "end_time": 1734364800,
+  "rcs_ver": "v3.0",
+  "ing_id": "675fc30d1ffd2fe3d61ee23c",
+  "share": 0
+},
+{
+  "_id": {
+    "$oid": "6761ae121ffd2fe3d61ee23f"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 17",
+  "time": "2024-12-17 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1734435000,
+  "end_time": 1734451200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6761148d1ffd2fe3d61ee23e"
+},
+{
+  "_id": {
+    "$oid": "6762ff921ffd2fe3d61ee241"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 18",
+  "time": "2024-12-18 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1734521400,
+  "end_time": 1734537600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6762660d1ffd2fe3d61ee240"
+},
+{
+  "_id": {
+    "$oid": "676451121ffd2fe3d61ee243"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 19",
+  "time": "2024-12-19 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1734607800,
+  "end_time": 1734624000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6763b78d1ffd2fe3d61ee242"
+},
+{
+  "_id": {
+    "$oid": "6765a2911ffd2fe3d61ee245"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 20",
+  "time": "2024-12-20 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1734694200,
+  "end_time": 1734710400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6765090d1ffd2fe3d61ee244"
+},
+{
+  "_id": {
+    "$oid": "676997121ffd2fe3d61ee247"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 23",
+  "time": "2024-12-23 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1734953400,
+  "end_time": 1734969600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6768fd8d1ffd2fe3d61ee246"
+},
+{
+  "_id": {
+    "$oid": "676ae8921ffd2fe3d61ee249"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 24",
+  "time": "2024-12-24 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1735039800,
+  "end_time": 1735056000,
+  "rcs_ver": "v3.0",
+  "ing_id": "676a4f0d1ffd2fe3d61ee248"
+},
+{
+  "_id": {
+    "$oid": "676c3a121ffd2fe3d61ee24b"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 25",
+  "time": "2024-12-25 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1735126200,
+  "end_time": 1735142400,
+  "rcs_ver": "v3.0",
+  "ing_id": "676ba08d1ffd2fe3d61ee24a"
+},
+{
+  "_id": {
+    "$oid": "676d8b921ffd2fe3d61ee24d"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 26",
+  "time": "2024-12-26 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1735212600,
+  "end_time": 1735228800,
+  "rcs_ver": "v3.0",
+  "ing_id": "676cf20d1ffd2fe3d61ee24c"
+},
+{
+  "_id": {
+    "$oid": "676edd121ffd2fe3d61ee24f"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 27",
+  "time": "2024-12-27 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1735299000,
+  "end_time": 1735315200,
+  "rcs_ver": "v3.0",
+  "ing_id": "676e438d1ffd2fe3d61ee24e"
+},
+{
+  "_id": {
+    "$oid": "6772d1921ffd2fe3d61ee251"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 30",
+  "time": "2024-12-30 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1735558200,
+  "end_time": 1735574400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6772380d1ffd2fe3d61ee250"
+},
+{
+  "_id": {
+    "$oid": "677423121ffd2fe3d61ee253"
+  },
+  "name": "Avg - PostG",
+  "description": "2024 December 31",
+  "time": "2024-12-31 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1735644600,
+  "end_time": 1735660800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6773898d1ffd2fe3d61ee252"
+},
+{
+  "_id": {
+    "$oid": "677574921ffd2fe3d61ee255"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 1",
+  "time": "2025-01-01 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1735731000,
+  "end_time": 1735747200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6774db0d1ffd2fe3d61ee254"
+},
+{
+  "_id": {
+    "$oid": "6776c6121ffd2fe3d61ee257"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 2",
+  "time": "2025-01-02 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1735817400,
+  "end_time": 1735833600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67762c8d1ffd2fe3d61ee256"
+},
+{
+  "_id": {
+    "$oid": "677817921ffd2fe3d61ee259"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 3",
+  "time": "2025-01-03 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1735903800,
+  "end_time": 1735920000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67777e0d1ffd2fe3d61ee258"
+},
+{
+  "_id": {
+    "$oid": "677c0c121ffd2fe3d61ee25b"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 6",
+  "time": "2025-01-06 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1736163000,
+  "end_time": 1736179200,
+  "rcs_ver": "v3.0",
+  "ing_id": "677b728d1ffd2fe3d61ee25a"
+},
+{
+  "_id": {
+    "$oid": "677d5d921ffd2fe3d61ee25d"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 7",
+  "time": "2025-01-07 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1736249400,
+  "end_time": 1736265600,
+  "rcs_ver": "v3.0",
+  "ing_id": "677cc40d1ffd2fe3d61ee25c"
+},
+{
+  "_id": {
+    "$oid": "677eaf121ffd2fe3d61ee25f"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 8",
+  "time": "2025-01-08 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1736335800,
+  "end_time": 1736352000,
+  "rcs_ver": "v3.0",
+  "ing_id": "677e158d1ffd2fe3d61ee25e"
+},
+{
+  "_id": {
+    "$oid": "678000921ffd2fe3d61ee261"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 9",
+  "time": "2025-01-09 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1736422200,
+  "end_time": 1736438400,
+  "rcs_ver": "v3.0",
+  "ing_id": "677f670d1ffd2fe3d61ee260"
+},
+{
+  "_id": {
+    "$oid": "678152121ffd2fe3d61ee263"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 10",
+  "time": "2025-01-10 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1736508600,
+  "end_time": 1736524800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6780b88d1ffd2fe3d61ee262"
+},
+{
+  "_id": {
+    "$oid": "678546911ffd2fe3d61ee265"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 13",
+  "time": "2025-01-13 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1736767800,
+  "end_time": 1736784000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6784ad0d1ffd2fe3d61ee264"
+},
+{
+  "_id": {
+    "$oid": "678698121ffd2fe3d61ee267"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 14",
+  "time": "2025-01-14 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1736854200,
+  "end_time": 1736870400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6785fe8d1ffd2fe3d61ee266"
+},
+{
+  "_id": {
+    "$oid": "6787e9921ffd2fe3d61ee269"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 15",
+  "time": "2025-01-15 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1736940600,
+  "end_time": 1736956800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6787500d1ffd2fe3d61ee268"
+},
+{
+  "_id": {
+    "$oid": "67893b121ffd2fe3d61ee26b"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 16",
+  "time": "2025-01-16 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1737027000,
+  "end_time": 1737043200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6788a18d1ffd2fe3d61ee26a"
+},
+{
+  "_id": {
+    "$oid": "678a8c921ffd2fe3d61ee26d"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 17",
+  "time": "2025-01-17 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1737113400,
+  "end_time": 1737129600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6789f30d1ffd2fe3d61ee26c"
+},
+{
+  "_id": {
+    "$oid": "678e81111ffd2fe3d61ee26f"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 20",
+  "time": "2025-01-20 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1737372600,
+  "end_time": 1737388800,
+  "rcs_ver": "v3.0",
+  "ing_id": "678de78d1ffd2fe3d61ee26e"
+},
+{
+  "_id": {
+    "$oid": "678fd2921ffd2fe3d61ee271"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 21",
+  "time": "2025-01-21 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1737459000,
+  "end_time": 1737475200,
+  "rcs_ver": "v3.0",
+  "ing_id": "678f390d1ffd2fe3d61ee270"
+},
+{
+  "_id": {
+    "$oid": "679124121ffd2fe3d61ee273"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 22",
+  "time": "2025-01-22 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1737545400,
+  "end_time": 1737561600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67908a8d1ffd2fe3d61ee272"
+},
+{
+  "_id": {
+    "$oid": "679275921ffd2fe3d61ee275"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 23",
+  "time": "2025-01-23 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1737631800,
+  "end_time": 1737648000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6791dc0d1ffd2fe3d61ee274"
+},
+{
+  "_id": {
+    "$oid": "6793c7121ffd2fe3d61ee277"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 24",
+  "time": "2025-01-24 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1737718200,
+  "end_time": 1737734400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67932d8d1ffd2fe3d61ee276"
+},
+{
+  "_id": {
+    "$oid": "6797bb921ffd2fe3d61ee279"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 27",
+  "time": "2025-01-27 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1737977400,
+  "end_time": 1737993600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6797220d1ffd2fe3d61ee278"
+},
+{
+  "_id": {
+    "$oid": "67990d111ffd2fe3d61ee27b"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 28",
+  "time": "2025-01-28 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1738063800,
+  "end_time": 1738080000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6798738d1ffd2fe3d61ee27a"
+},
+{
+  "_id": {
+    "$oid": "679a5e921ffd2fe3d61ee27d"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 29",
+  "time": "2025-01-29 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1738150200,
+  "end_time": 1738166400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6799c50d1ffd2fe3d61ee27c"
+},
+{
+  "_id": {
+    "$oid": "679bb0111ffd2fe3d61ee27f"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 30",
+  "time": "2025-01-30 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1738236600,
+  "end_time": 1738252800,
+  "rcs_ver": "v3.0",
+  "ing_id": "679b168d1ffd2fe3d61ee27e"
+},
+{
+  "_id": {
+    "$oid": "679d01921ffd2fe3d61ee281"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 January 31",
+  "time": "2025-01-31 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1738323000,
+  "end_time": 1738339200,
+  "rcs_ver": "v3.0",
+  "ing_id": "679c680d1ffd2fe3d61ee280"
+},
+{
+  "_id": {
+    "$oid": "67a0f6131ffd2fe3d61ee283"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 3",
+  "time": "2025-02-03 11:00:03 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1738582200,
+  "end_time": 1738598400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67a05c8d1ffd2fe3d61ee282"
+},
+{
+  "_id": {
+    "$oid": "67a247921ffd2fe3d61ee285"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 4",
+  "time": "2025-02-04 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1738668600,
+  "end_time": 1738684800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67a1ae0d1ffd2fe3d61ee284"
+},
+{
+  "_id": {
+    "$oid": "67a399121ffd2fe3d61ee287"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 5",
+  "time": "2025-02-05 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1738755000,
+  "end_time": 1738771200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67a2ff8d1ffd2fe3d61ee286"
+},
+{
+  "_id": {
+    "$oid": "67a4ea911ffd2fe3d61ee289"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 6",
+  "time": "2025-02-06 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1738841400,
+  "end_time": 1738857600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67a4510d1ffd2fe3d61ee288"
+},
+{
+  "_id": {
+    "$oid": "67a63c121ffd2fe3d61ee28b"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 7",
+  "time": "2025-02-07 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1738927800,
+  "end_time": 1738944000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67a5a28d1ffd2fe3d61ee28a"
+},
+{
+  "_id": {
+    "$oid": "67aa30921ffd2fe3d61ee28d"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 10",
+  "time": "2025-02-10 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1739187000,
+  "end_time": 1739203200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67a9970d1ffd2fe3d61ee28c"
+},
+{
+  "_id": {
+    "$oid": "67ab82111ffd2fe3d61ee28f"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 11",
+  "time": "2025-02-11 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1739273400,
+  "end_time": 1739289600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67aae88d1ffd2fe3d61ee28e"
+},
+{
+  "_id": {
+    "$oid": "67acd3911ffd2fe3d61ee291"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 12",
+  "time": "2025-02-12 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1739359800,
+  "end_time": 1739376000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67ac3a0d1ffd2fe3d61ee290"
+},
+{
+  "_id": {
+    "$oid": "67ae25121ffd2fe3d61ee293"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 13",
+  "time": "2025-02-13 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1739446200,
+  "end_time": 1739462400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67ad8b8d1ffd2fe3d61ee292"
+},
+{
+  "_id": {
+    "$oid": "67af76921ffd2fe3d61ee295"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 14",
+  "time": "2025-02-14 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1739532600,
+  "end_time": 1739548800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67aedd0d1ffd2fe3d61ee294"
+},
+{
+  "_id": {
+    "$oid": "67b36b121ffd2fe3d61ee297"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 17",
+  "time": "2025-02-17 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1739791800,
+  "end_time": 1739808000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67b2d18d1ffd2fe3d61ee296"
+},
+{
+  "_id": {
+    "$oid": "67b4bc911ffd2fe3d61ee299"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 18",
+  "time": "2025-02-18 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1739878200,
+  "end_time": 1739894400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67b4230d1ffd2fe3d61ee298"
+},
+{
+  "_id": {
+    "$oid": "67b60e121ffd2fe3d61ee29b"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 19",
+  "time": "2025-02-19 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1739964600,
+  "end_time": 1739980800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67b5748d1ffd2fe3d61ee29a"
+},
+{
+  "_id": {
+    "$oid": "67b75f921ffd2fe3d61ee29d"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 20",
+  "time": "2025-02-20 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1740051000,
+  "end_time": 1740067200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67b6c60d1ffd2fe3d61ee29c"
+},
+{
+  "_id": {
+    "$oid": "67b8b1121ffd2fe3d61ee29f"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 21",
+  "time": "2025-02-21 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1740137400,
+  "end_time": 1740153600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67b8178d1ffd2fe3d61ee29e"
+},
+{
+  "_id": {
+    "$oid": "67bca5921ffd2fe3d61ee2a1"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 24",
+  "time": "2025-02-24 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1740396600,
+  "end_time": 1740412800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67bc0c0d1ffd2fe3d61ee2a0"
+},
+{
+  "_id": {
+    "$oid": "67bdf7121ffd2fe3d61ee2a3"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 25",
+  "time": "2025-02-25 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1740483000,
+  "end_time": 1740499200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67bd5d8d1ffd2fe3d61ee2a2"
+},
+{
+  "_id": {
+    "$oid": "67bf48921ffd2fe3d61ee2a5"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 26",
+  "time": "2025-02-26 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1740569400,
+  "end_time": 1740585600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67beaf0d1ffd2fe3d61ee2a4"
+},
+{
+  "_id": {
+    "$oid": "67c09a121ffd2fe3d61ee2a7"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 27",
+  "time": "2025-02-27 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1740655800,
+  "end_time": 1740672000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67c0008d1ffd2fe3d61ee2a6"
+},
+{
+  "_id": {
+    "$oid": "67c1eb921ffd2fe3d61ee2a9"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 February 28",
+  "time": "2025-02-28 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1740742200,
+  "end_time": 1740758400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67c1520d1ffd2fe3d61ee2a8"
+},
+{
+  "_id": {
+    "$oid": "67c5e0121ffd2fe3d61ee2ab"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 3",
+  "time": "2025-03-03 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1741001400,
+  "end_time": 1741017600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67c5468d1ffd2fe3d61ee2aa"
+},
+{
+  "_id": {
+    "$oid": "67c731921ffd2fe3d61ee2ad"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 4",
+  "time": "2025-03-04 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1741087800,
+  "end_time": 1741104000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67c6980d1ffd2fe3d61ee2ac"
+},
+{
+  "_id": {
+    "$oid": "67c883111ffd2fe3d61ee2af"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 5",
+  "time": "2025-03-05 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1741174200,
+  "end_time": 1741190400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67c7e98d1ffd2fe3d61ee2ae"
+},
+{
+  "_id": {
+    "$oid": "67c9d4911ffd2fe3d61ee2b1"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 6",
+  "time": "2025-03-06 11:00:01 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1741260600,
+  "end_time": 1741276800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67c93b0d1ffd2fe3d61ee2b0"
+},
+{
+  "_id": {
+    "$oid": "67cb26121ffd2fe3d61ee2b3"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 7",
+  "time": "2025-03-07 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1741347000,
+  "end_time": 1741363200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67ca8c8d1ffd2fe3d61ee2b2"
+},
+{
+  "_id": {
+    "$oid": "67cf0c811ffd2fe3d61ee2b5"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 10",
+  "time": "2025-03-10 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1741602600,
+  "end_time": 1741618800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67ce72fd1ffd2fe3d61ee2b4"
+},
+{
+  "_id": {
+    "$oid": "67d05e021ffd2fe3d61ee2b7"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 11",
+  "time": "2025-03-11 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1741689000,
+  "end_time": 1741705200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67cfc47d1ffd2fe3d61ee2b6"
+},
+{
+  "_id": {
+    "$oid": "67d1af821ffd2fe3d61ee2b9"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 12",
+  "time": "2025-03-12 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1741775400,
+  "end_time": 1741791600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67d115fd1ffd2fe3d61ee2b8"
+},
+{
+  "_id": {
+    "$oid": "67d301021ffd2fe3d61ee2bb"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 13",
+  "time": "2025-03-13 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1741861800,
+  "end_time": 1741878000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67d2677d1ffd2fe3d61ee2ba"
+},
+{
+  "_id": {
+    "$oid": "67d452811ffd2fe3d61ee2bd"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 14",
+  "time": "2025-03-14 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1741948200,
+  "end_time": 1741964400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67d3b8fd1ffd2fe3d61ee2bc"
+},
+{
+  "_id": {
+    "$oid": "67d847021ffd2fe3d61ee2bf"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 17",
+  "time": "2025-03-17 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1742207400,
+  "end_time": 1742223600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67d7ad7d1ffd2fe3d61ee2be"
+},
+{
+  "_id": {
+    "$oid": "67d998821ffd2fe3d61ee2c1"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 18",
+  "time": "2025-03-18 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1742293800,
+  "end_time": 1742310000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67d8fefd1ffd2fe3d61ee2c0"
+},
+{
+  "_id": {
+    "$oid": "67daea021ffd2fe3d61ee2c3"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 19",
+  "time": "2025-03-19 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1742380200,
+  "end_time": 1742396400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67da507d1ffd2fe3d61ee2c2"
+},
+{
+  "_id": {
+    "$oid": "67dc3b821ffd2fe3d61ee2c5"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 20",
+  "time": "2025-03-20 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1742466600,
+  "end_time": 1742482800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67dba1fd1ffd2fe3d61ee2c4"
+},
+{
+  "_id": {
+    "$oid": "67dd8d021ffd2fe3d61ee2c7"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 21",
+  "time": "2025-03-21 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1742553000,
+  "end_time": 1742569200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67dcf37d1ffd2fe3d61ee2c6"
+},
+{
+  "_id": {
+    "$oid": "67e181811ffd2fe3d61ee2c9"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 24",
+  "time": "2025-03-24 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1742812200,
+  "end_time": 1742828400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67e0e7fd1ffd2fe3d61ee2c8"
+},
+{
+  "_id": {
+    "$oid": "67e2d3021ffd2fe3d61ee2cb"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 25",
+  "time": "2025-03-25 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1742898600,
+  "end_time": 1742914800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67e2397d1ffd2fe3d61ee2ca"
+},
+{
+  "_id": {
+    "$oid": "67e424821ffd2fe3d61ee2cd"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 26",
+  "time": "2025-03-26 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1742985000,
+  "end_time": 1743001200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67e38afd1ffd2fe3d61ee2cc"
+},
+{
+  "_id": {
+    "$oid": "67e576021ffd2fe3d61ee2cf"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 27",
+  "time": "2025-03-27 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1743071400,
+  "end_time": 1743087600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67e4dc7d1ffd2fe3d61ee2ce"
+},
+{
+  "_id": {
+    "$oid": "67e6c7821ffd2fe3d61ee2d1"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 28",
+  "time": "2025-03-28 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1743157800,
+  "end_time": 1743174000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67e62dfd1ffd2fe3d61ee2d0"
+},
+{
+  "_id": {
+    "$oid": "67eabc021ffd2fe3d61ee2d3"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 March 31",
+  "time": "2025-03-31 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1743417000,
+  "end_time": 1743433200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67ea227d1ffd2fe3d61ee2d2"
+},
+{
+  "_id": {
+    "$oid": "67ec0d811ffd2fe3d61ee2d5"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 1",
+  "time": "2025-04-01 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1743503400,
+  "end_time": 1743519600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67eb73fd1ffd2fe3d61ee2d4"
+},
+{
+  "_id": {
+    "$oid": "67ed5f021ffd2fe3d61ee2d7"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 2",
+  "time": "2025-04-02 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1743589800,
+  "end_time": 1743606000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67ecc57d1ffd2fe3d61ee2d6"
+},
+{
+  "_id": {
+    "$oid": "67eeb0821ffd2fe3d61ee2dd"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 3",
+  "time": "2025-04-03 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1743676200,
+  "end_time": 1743692400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67ee5c5a1ffd2fe3d61ee2dc"
+},
+{
+  "_id": {
+    "$oid": "67f002021ffd2fe3d61ee2e0"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 4",
+  "time": "2025-04-04 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1743762600,
+  "end_time": 1743778800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67ef687d1ffd2fe3d61ee2df"
+},
+{
+  "_id": {
+    "$oid": "67f3f6821ffd2fe3d61ee2e2"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 7",
+  "time": "2025-04-07 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1744021800,
+  "end_time": 1744038000,
+  "rcs_ver": "v3.0",
+  "ing_id": "67f35cfd1ffd2fe3d61ee2e1"
+},
+{
+  "_id": {
+    "$oid": "67f548021ffd2fe3d61ee2e4"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 8",
+  "time": "2025-04-08 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1744108200,
+  "end_time": 1744124400,
+  "rcs_ver": "v3.0",
+  "ing_id": "67f4ae7d1ffd2fe3d61ee2e3"
+},
+{
+  "_id": {
+    "$oid": "67f699821ffd2fe3d61ee2e6"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 9",
+  "time": "2025-04-09 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1744194600,
+  "end_time": 1744210800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67f5fffd1ffd2fe3d61ee2e5"
+},
+{
+  "_id": {
+    "$oid": "67f7eb021ffd2fe3d61ee2e8"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 10",
+  "time": "2025-04-10 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1744281000,
+  "end_time": 1744297200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67f7517d1ffd2fe3d61ee2e7"
+},
+{
+  "_id": {
+    "$oid": "67f93c821ffd2fe3d61ee2ea"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 11",
+  "time": "2025-04-11 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1744367400,
+  "end_time": 1744383600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67f8a2fd1ffd2fe3d61ee2e9"
+},
+{
+  "_id": {
+    "$oid": "67fd31021ffd2fe3d61ee2ec"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 14",
+  "time": "2025-04-14 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1744626600,
+  "end_time": 1744642800,
+  "rcs_ver": "v3.0",
+  "ing_id": "67fc977d1ffd2fe3d61ee2eb"
+},
+{
+  "_id": {
+    "$oid": "67fe82821ffd2fe3d61ee2ee"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 15",
+  "time": "2025-04-15 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1744713000,
+  "end_time": 1744729200,
+  "rcs_ver": "v3.0",
+  "ing_id": "67fde8fd1ffd2fe3d61ee2ed"
+},
+{
+  "_id": {
+    "$oid": "67ffd4021ffd2fe3d61ee2f0"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 16",
+  "time": "2025-04-16 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1744799400,
+  "end_time": 1744815600,
+  "rcs_ver": "v3.0",
+  "ing_id": "67ff3a7d1ffd2fe3d61ee2ef"
+},
+{
+  "_id": {
+    "$oid": "680125821ffd2fe3d61ee2f2"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 17",
+  "time": "2025-04-17 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1744885800,
+  "end_time": 1744902000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68008bfd1ffd2fe3d61ee2f1"
+},
+{
+  "_id": {
+    "$oid": "680277021ffd2fe3d61ee2f4"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 18",
+  "time": "2025-04-18 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1744972200,
+  "end_time": 1744988400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6801dd7d1ffd2fe3d61ee2f3"
+},
+{
+  "_id": {
+    "$oid": "68066b811ffd2fe3d61ee2f6"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 21",
+  "time": "2025-04-21 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1745231400,
+  "end_time": 1745247600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6805d1fe1ffd2fe3d61ee2f5"
+},
+{
+  "_id": {
+    "$oid": "6807bd021ffd2fe3d61ee2f8"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 22",
+  "time": "2025-04-22 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1745317800,
+  "end_time": 1745334000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6807237d1ffd2fe3d61ee2f7"
+},
+{
+  "_id": {
+    "$oid": "68090e821ffd2fe3d61ee2fa"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 23",
+  "time": "2025-04-23 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1745404200,
+  "end_time": 1745420400,
+  "rcs_ver": "v3.0",
+  "ing_id": "680874fd1ffd2fe3d61ee2f9"
+},
+{
+  "_id": {
+    "$oid": "680a60011ffd2fe3d61ee2fc"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 24",
+  "time": "2025-04-24 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1745490600,
+  "end_time": 1745506800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6809c67d1ffd2fe3d61ee2fb"
+},
+{
+  "_id": {
+    "$oid": "680bb1811ffd2fe3d61ee2fe"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 25",
+  "time": "2025-04-25 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1745577000,
+  "end_time": 1745593200,
+  "rcs_ver": "v3.0",
+  "ing_id": "680b17fd1ffd2fe3d61ee2fd"
+},
+{
+  "_id": {
+    "$oid": "680fa6021ffd2fe3d61ee300"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 28",
+  "time": "2025-04-28 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1745836200,
+  "end_time": 1745852400,
+  "rcs_ver": "v3.0",
+  "ing_id": "680f0c7d1ffd2fe3d61ee2ff"
+},
+{
+  "_id": {
+    "$oid": "6810f7821ffd2fe3d61ee302"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 29",
+  "time": "2025-04-29 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1745922600,
+  "end_time": 1745938800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68105dfd1ffd2fe3d61ee301",
+  "share": -1
+},
+{
+  "_id": {
+    "$oid": "681249021ffd2fe3d61ee304"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 April 30",
+  "time": "2025-04-30 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1746009000,
+  "end_time": 1746025200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6811af7d1ffd2fe3d61ee303"
+},
+{
+  "_id": {
+    "$oid": "68139a821ffd2fe3d61ee306"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 1",
+  "time": "2025-05-01 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1746095400,
+  "end_time": 1746111600,
+  "rcs_ver": "v3.0",
+  "ing_id": "681300fd1ffd2fe3d61ee305"
+},
+{
+  "_id": {
+    "$oid": "6814ec021ffd2fe3d61ee308"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 2",
+  "time": "2025-05-02 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1746181800,
+  "end_time": 1746198000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6814527d1ffd2fe3d61ee307"
+},
+{
+  "_id": {
+    "$oid": "6818e0821ffd2fe3d61ee30a"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 5",
+  "time": "2025-05-05 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1746441000,
+  "end_time": 1746457200,
+  "rcs_ver": "v3.0",
+  "ing_id": "681846fd1ffd2fe3d61ee309"
+},
+{
+  "_id": {
+    "$oid": "681a32021ffd2fe3d61ee30c"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 6",
+  "time": "2025-05-06 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1746527400,
+  "end_time": 1746543600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6819987d1ffd2fe3d61ee30b"
+},
+{
+  "_id": {
+    "$oid": "681b83821ffd2fe3d61ee30e"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 7",
+  "time": "2025-05-07 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1746613800,
+  "end_time": 1746630000,
+  "rcs_ver": "v3.0",
+  "ing_id": "681ae9fd1ffd2fe3d61ee30d"
+},
+{
+  "_id": {
+    "$oid": "681cd5011ffd2fe3d61ee310"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 8",
+  "time": "2025-05-08 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1746700200,
+  "end_time": 1746716400,
+  "rcs_ver": "v3.0",
+  "ing_id": "681c3b7d1ffd2fe3d61ee30f"
+},
+{
+  "_id": {
+    "$oid": "681e26811ffd2fe3d61ee312"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 9",
+  "time": "2025-05-09 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1746786600,
+  "end_time": 1746802800,
+  "rcs_ver": "v3.0",
+  "ing_id": "681d8cfd1ffd2fe3d61ee311"
+},
+{
+  "_id": {
+    "$oid": "68221b021ffd2fe3d61ee314"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 12",
+  "time": "2025-05-12 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1747045800,
+  "end_time": 1747062000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6821817d1ffd2fe3d61ee313"
+},
+{
+  "_id": {
+    "$oid": "68236c821ffd2fe3d61ee316"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 13",
+  "time": "2025-05-13 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1747132200,
+  "end_time": 1747148400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6822d2fd1ffd2fe3d61ee315"
+},
+{
+  "_id": {
+    "$oid": "6824be021ffd2fe3d61ee318"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 14",
+  "time": "2025-05-14 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1747218600,
+  "end_time": 1747234800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6824247d1ffd2fe3d61ee317"
+},
+{
+  "_id": {
+    "$oid": "68260f821ffd2fe3d61ee31a"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 15",
+  "time": "2025-05-15 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1747305000,
+  "end_time": 1747321200,
+  "rcs_ver": "v3.0",
+  "ing_id": "682575fd1ffd2fe3d61ee319"
+},
+{
+  "_id": {
+    "$oid": "682761021ffd2fe3d61ee31c"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 16",
+  "time": "2025-05-16 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1747391400,
+  "end_time": 1747407600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6826c77d1ffd2fe3d61ee31b"
+},
+{
+  "_id": {
+    "$oid": "682b55811ffd2fe3d61ee31e"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 19",
+  "time": "2025-05-19 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1747650600,
+  "end_time": 1747666800,
+  "rcs_ver": "v3.0",
+  "ing_id": "682abbfd1ffd2fe3d61ee31d"
+},
+{
+  "_id": {
+    "$oid": "682ca7011ffd2fe3d61ee320"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 20",
+  "time": "2025-05-20 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1747737000,
+  "end_time": 1747753200,
+  "rcs_ver": "v3.0",
+  "ing_id": "682c0d7d1ffd2fe3d61ee31f"
+},
+{
+  "_id": {
+    "$oid": "682df8821ffd2fe3d61ee322"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 21",
+  "time": "2025-05-21 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1747823400,
+  "end_time": 1747839600,
+  "rcs_ver": "v3.0",
+  "ing_id": "682d5efd1ffd2fe3d61ee321"
+},
+{
+  "_id": {
+    "$oid": "682f4a021ffd2fe3d61ee324"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 22",
+  "time": "2025-05-22 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1747909800,
+  "end_time": 1747926000,
+  "rcs_ver": "v3.0",
+  "ing_id": "682eb07d1ffd2fe3d61ee323"
+},
+{
+  "_id": {
+    "$oid": "68309b821ffd2fe3d61ee326"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 23",
+  "time": "2025-05-23 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1747996200,
+  "end_time": 1748012400,
+  "rcs_ver": "v3.0",
+  "ing_id": "683001fd1ffd2fe3d61ee325"
+},
+{
+  "_id": {
+    "$oid": "683490021ffd2fe3d61ee328"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 26",
+  "time": "2025-05-26 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1748255400,
+  "end_time": 1748271600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6833f67d1ffd2fe3d61ee327"
+},
+{
+  "_id": {
+    "$oid": "6835e1811ffd2fe3d61ee32a"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 27",
+  "time": "2025-05-27 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1748341800,
+  "end_time": 1748358000,
+  "rcs_ver": "v3.0",
+  "ing_id": "683547fd1ffd2fe3d61ee329"
+},
+{
+  "_id": {
+    "$oid": "683733011ffd2fe3d61ee32c"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 28",
+  "time": "2025-05-28 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1748428200,
+  "end_time": 1748444400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6836997d1ffd2fe3d61ee32b"
+},
+{
+  "_id": {
+    "$oid": "683884811ffd2fe3d61ee32e"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 29",
+  "time": "2025-05-29 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1748514600,
+  "end_time": 1748530800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6837eafe1ffd2fe3d61ee32d"
+},
+{
+  "_id": {
+    "$oid": "6839d6011ffd2fe3d61ee330"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 May 30",
+  "time": "2025-05-30 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1748601000,
+  "end_time": 1748617200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68393c7d1ffd2fe3d61ee32f"
+},
+{
+  "_id": {
+    "$oid": "683dca821ffd2fe3d61ee332"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 2",
+  "time": "2025-06-02 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1748860200,
+  "end_time": 1748876400,
+  "rcs_ver": "v3.0",
+  "ing_id": "683d30fd1ffd2fe3d61ee331"
+},
+{
+  "_id": {
+    "$oid": "683f1c021ffd2fe3d61ee334"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 3",
+  "time": "2025-06-03 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1748946600,
+  "end_time": 1748962800,
+  "rcs_ver": "v3.0",
+  "ing_id": "683e827d1ffd2fe3d61ee333"
+},
+{
+  "_id": {
+    "$oid": "68406d821ffd2fe3d61ee336"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 4",
+  "time": "2025-06-04 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1749033000,
+  "end_time": 1749049200,
+  "rcs_ver": "v3.0",
+  "ing_id": "683fd3fd1ffd2fe3d61ee335"
+},
+{
+  "_id": {
+    "$oid": "6841bf021ffd2fe3d61ee338"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 5",
+  "time": "2025-06-05 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1749119400,
+  "end_time": 1749135600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6841257d1ffd2fe3d61ee337"
+},
+{
+  "_id": {
+    "$oid": "684310821ffd2fe3d61ee33a"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 6",
+  "time": "2025-06-06 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1749205800,
+  "end_time": 1749222000,
+  "rcs_ver": "v3.0",
+  "ing_id": "684276fd1ffd2fe3d61ee339"
+},
+{
+  "_id": {
+    "$oid": "684705021ffd2fe3d61ee33c"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 9",
+  "time": "2025-06-09 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1749465000,
+  "end_time": 1749481200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68466b7d1ffd2fe3d61ee33b"
+},
+{
+  "_id": {
+    "$oid": "684856821ffd2fe3d61ee33e"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 10",
+  "time": "2025-06-10 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1749551400,
+  "end_time": 1749567600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6847bcfd1ffd2fe3d61ee33d"
+},
+{
+  "_id": {
+    "$oid": "6849a8021ffd2fe3d61ee340"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 11",
+  "time": "2025-06-11 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1749637800,
+  "end_time": 1749654000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68490e7d1ffd2fe3d61ee33f"
+},
+{
+  "_id": {
+    "$oid": "684af9821ffd2fe3d61ee342"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 12",
+  "time": "2025-06-12 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1749724200,
+  "end_time": 1749740400,
+  "rcs_ver": "v3.0",
+  "ing_id": "684a5ffd1ffd2fe3d61ee341"
+},
+{
+  "_id": {
+    "$oid": "684c4b021ffd2fe3d61ee344"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 13",
+  "time": "2025-06-13 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1749810600,
+  "end_time": 1749826800,
+  "rcs_ver": "v3.0",
+  "ing_id": "684bb17d1ffd2fe3d61ee343"
+},
+{
+  "_id": {
+    "$oid": "68503f821ffd2fe3d61ee346"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 16",
+  "time": "2025-06-16 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1750069800,
+  "end_time": 1750086000,
+  "rcs_ver": "v3.0",
+  "ing_id": "684fa5fd1ffd2fe3d61ee345"
+},
+{
+  "_id": {
+    "$oid": "685191021ffd2fe3d61ee348"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 17",
+  "time": "2025-06-17 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1750156200,
+  "end_time": 1750172400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6850f77d1ffd2fe3d61ee347"
+},
+{
+  "_id": {
+    "$oid": "6852e2811ffd2fe3d61ee34a"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 18",
+  "time": "2025-06-18 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1750242600,
+  "end_time": 1750258800,
+  "rcs_ver": "v3.0",
+  "ing_id": "685248fd1ffd2fe3d61ee349"
+},
+{
+  "_id": {
+    "$oid": "685434011ffd2fe3d61ee34c"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 19",
+  "time": "2025-06-19 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1750329000,
+  "end_time": 1750345200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68539a7d1ffd2fe3d61ee34b"
+},
+{
+  "_id": {
+    "$oid": "685585821ffd2fe3d61ee34e"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 20",
+  "time": "2025-06-20 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1750415400,
+  "end_time": 1750431600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6854ebfd1ffd2fe3d61ee34d"
+},
+{
+  "_id": {
+    "$oid": "68597a021ffd2fe3d61ee350"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 23",
+  "time": "2025-06-23 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1750674600,
+  "end_time": 1750690800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6858e07d1ffd2fe3d61ee34f"
+},
+{
+  "_id": {
+    "$oid": "685acb821ffd2fe3d61ee352"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 24",
+  "time": "2025-06-24 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1750761000,
+  "end_time": 1750777200,
+  "rcs_ver": "v3.0",
+  "ing_id": "685a31fd1ffd2fe3d61ee351"
+},
+{
+  "_id": {
+    "$oid": "685c1d021ffd2fe3d61ee354"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 25",
+  "time": "2025-06-25 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1750847400,
+  "end_time": 1750863600,
+  "rcs_ver": "v3.0",
+  "ing_id": "685b837d1ffd2fe3d61ee353"
+},
+{
+  "_id": {
+    "$oid": "685d6e821ffd2fe3d61ee356"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 26",
+  "time": "2025-06-26 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1750933800,
+  "end_time": 1750950000,
+  "rcs_ver": "v3.0",
+  "ing_id": "685cd4fd1ffd2fe3d61ee355"
+},
+{
+  "_id": {
+    "$oid": "685ec0021ffd2fe3d61ee358"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 27",
+  "time": "2025-06-27 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1751020200,
+  "end_time": 1751036400,
+  "rcs_ver": "v3.0",
+  "ing_id": "685e267d1ffd2fe3d61ee357"
+},
+{
+  "_id": {
+    "$oid": "6862b4821ffd2fe3d61ee35a"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 June 30",
+  "time": "2025-06-30 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1751279400,
+  "end_time": 1751295600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68621afd1ffd2fe3d61ee359"
+},
+{
+  "_id": {
+    "$oid": "686406021ffd2fe3d61ee35c"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 1",
+  "time": "2025-07-01 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1751365800,
+  "end_time": 1751382000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68636c7d1ffd2fe3d61ee35b"
+},
+{
+  "_id": {
+    "$oid": "686557811ffd2fe3d61ee35e"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 2",
+  "time": "2025-07-02 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1751452200,
+  "end_time": 1751468400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6864bdfd1ffd2fe3d61ee35d"
+},
+{
+  "_id": {
+    "$oid": "6866a9021ffd2fe3d61ee360"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 3",
+  "time": "2025-07-03 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1751538600,
+  "end_time": 1751554800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68660f7d1ffd2fe3d61ee35f"
+},
+{
+  "_id": {
+    "$oid": "6867fa811ffd2fe3d61ee362"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 4",
+  "time": "2025-07-04 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1751625000,
+  "end_time": 1751641200,
+  "rcs_ver": "v3.0",
+  "ing_id": "686760fe1ffd2fe3d61ee361"
+},
+{
+  "_id": {
+    "$oid": "686bef021ffd2fe3d61ee364"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 7",
+  "time": "2025-07-07 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1751884200,
+  "end_time": 1751900400,
+  "rcs_ver": "v3.0",
+  "ing_id": "686b557d1ffd2fe3d61ee363"
+},
+{
+  "_id": {
+    "$oid": "686d40821ffd2fe3d61ee366"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 8",
+  "time": "2025-07-08 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1751970600,
+  "end_time": 1751986800,
+  "rcs_ver": "v3.0",
+  "ing_id": "686ca6fd1ffd2fe3d61ee365"
+},
+{
+  "_id": {
+    "$oid": "686e92011ffd2fe3d61ee368"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 9",
+  "time": "2025-07-09 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1752057000,
+  "end_time": 1752073200,
+  "rcs_ver": "v3.0",
+  "ing_id": "686df87d1ffd2fe3d61ee367"
+},
+{
+  "_id": {
+    "$oid": "686fe3821ffd2fe3d61ee36a"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 10",
+  "time": "2025-07-10 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1752143400,
+  "end_time": 1752159600,
+  "rcs_ver": "v3.0",
+  "ing_id": "686f49fd1ffd2fe3d61ee369"
+},
+{
+  "_id": {
+    "$oid": "687135021ffd2fe3d61ee36c"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 11",
+  "time": "2025-07-11 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1752229800,
+  "end_time": 1752246000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68709b7d1ffd2fe3d61ee36b"
+},
+{
+  "_id": {
+    "$oid": "687529821ffd2fe3d61ee36e"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 14",
+  "time": "2025-07-14 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1752489000,
+  "end_time": 1752505200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68748ffd1ffd2fe3d61ee36d"
+},
+{
+  "_id": {
+    "$oid": "68767b021ffd2fe3d61ee370"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 15",
+  "time": "2025-07-15 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1752575400,
+  "end_time": 1752591600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6875e17d1ffd2fe3d61ee36f"
+},
+{
+  "_id": {
+    "$oid": "6877cc821ffd2fe3d61ee372"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 16",
+  "time": "2025-07-16 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1752661800,
+  "end_time": 1752678000,
+  "rcs_ver": "v3.0",
+  "ing_id": "687732fd1ffd2fe3d61ee371"
+},
+{
+  "_id": {
+    "$oid": "68791e011ffd2fe3d61ee374"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 17",
+  "time": "2025-07-17 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1752748200,
+  "end_time": 1752764400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6878847d1ffd2fe3d61ee373"
+},
+{
+  "_id": {
+    "$oid": "687a6f821ffd2fe3d61ee376"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 18",
+  "time": "2025-07-18 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1752834600,
+  "end_time": 1752850800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6879d5fd1ffd2fe3d61ee375"
+},
+{
+  "_id": {
+    "$oid": "687e64021ffd2fe3d61ee378"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 21",
+  "time": "2025-07-21 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1753093800,
+  "end_time": 1753110000,
+  "rcs_ver": "v3.0",
+  "ing_id": "687dca7d1ffd2fe3d61ee377"
+},
+{
+  "_id": {
+    "$oid": "687fb5821ffd2fe3d61ee37a"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 22",
+  "time": "2025-07-22 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1753180200,
+  "end_time": 1753196400,
+  "rcs_ver": "v3.0",
+  "ing_id": "687f1bfd1ffd2fe3d61ee379"
+},
+{
+  "_id": {
+    "$oid": "688107021ffd2fe3d61ee37c"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 23",
+  "time": "2025-07-23 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1753266600,
+  "end_time": 1753282800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68806d7d1ffd2fe3d61ee37b"
+},
+{
+  "_id": {
+    "$oid": "688258821ffd2fe3d61ee37e"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 24",
+  "time": "2025-07-24 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1753353000,
+  "end_time": 1753369200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6881befd1ffd2fe3d61ee37d"
+},
+{
+  "_id": {
+    "$oid": "6883aa031ffd2fe3d61ee380"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 25",
+  "time": "2025-07-25 11:00:03 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1753439400,
+  "end_time": 1753455600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6883107d1ffd2fe3d61ee37f"
+},
+{
+  "_id": {
+    "$oid": "68879e821859665d8d457877"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 28",
+  "time": "2025-07-28 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1753698600,
+  "end_time": 1753714800,
+  "rcs_ver": "v3.0",
+  "ing_id": "688704fd1859665d8d457876"
+},
+{
+  "_id": {
+    "$oid": "6888f0011859665d8d457879"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 29",
+  "time": "2025-07-29 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1753785000,
+  "end_time": 1753801200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6888567d1859665d8d457878"
+},
+{
+  "_id": {
+    "$oid": "688a41811859665d8d45787b"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 30",
+  "time": "2025-07-30 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1753871400,
+  "end_time": 1753887600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6889a7fe1859665d8d45787a"
+},
+{
+  "_id": {
+    "$oid": "688b93011859665d8d45787d"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 July 31",
+  "time": "2025-07-31 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1753957800,
+  "end_time": 1753974000,
+  "rcs_ver": "v3.0",
+  "ing_id": "688af97d1859665d8d45787c"
+},
+{
+  "_id": {
+    "$oid": "688ce4821859665d8d45787f"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 1",
+  "time": "2025-08-01 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1754044200,
+  "end_time": 1754060400,
+  "rcs_ver": "v3.0",
+  "ing_id": "688c4afd1859665d8d45787e"
+},
+{
+  "_id": {
+    "$oid": "6890d9029478cdbd7a8292cb"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 4",
+  "time": "2025-08-04 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1754303400,
+  "end_time": 1754319600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68903f7d9478cdbd7a8292ca"
+},
+{
+  "_id": {
+    "$oid": "68922a819478cdbd7a8292cd"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 5",
+  "time": "2025-08-05 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1754389800,
+  "end_time": 1754406000,
+  "rcs_ver": "v3.0",
+  "ing_id": "689190fd9478cdbd7a8292cc"
+},
+{
+  "_id": {
+    "$oid": "68937c029478cdbd7a8292cf"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 6",
+  "time": "2025-08-06 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1754476200,
+  "end_time": 1754492400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6892e27d9478cdbd7a8292ce"
+},
+{
+  "_id": {
+    "$oid": "6894cd829478cdbd7a8292d1"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 7",
+  "time": "2025-08-07 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1754562600,
+  "end_time": 1754578800,
+  "rcs_ver": "v3.0",
+  "ing_id": "689433fd9478cdbd7a8292d0"
+},
+{
+  "_id": {
+    "$oid": "68961f029478cdbd7a8292d3"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 8",
+  "time": "2025-08-08 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1754649000,
+  "end_time": 1754665200,
+  "rcs_ver": "v3.0",
+  "ing_id": "6895857d9478cdbd7a8292d2"
+},
+{
+  "_id": {
+    "$oid": "689a13829478cdbd7a8292d5"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 11",
+  "time": "2025-08-11 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1754908200,
+  "end_time": 1754924400,
+  "rcs_ver": "v3.0",
+  "ing_id": "689979fd9478cdbd7a8292d4"
+},
+{
+  "_id": {
+    "$oid": "689b65029478cdbd7a8292d7"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 12",
+  "time": "2025-08-12 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1754994600,
+  "end_time": 1755010800,
+  "rcs_ver": "v3.0",
+  "ing_id": "689acb7d9478cdbd7a8292d6"
+},
+{
+  "_id": {
+    "$oid": "689cb6829478cdbd7a8292d9"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 13",
+  "time": "2025-08-13 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1755081000,
+  "end_time": 1755097200,
+  "rcs_ver": "v3.0",
+  "ing_id": "689c1cfd9478cdbd7a8292d8"
+},
+{
+  "_id": {
+    "$oid": "689e08029478cdbd7a8292db"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 14",
+  "time": "2025-08-14 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1755167400,
+  "end_time": 1755183600,
+  "rcs_ver": "v3.0",
+  "ing_id": "689d6e7d9478cdbd7a8292da"
+},
+{
+  "_id": {
+    "$oid": "689f59829478cdbd7a8292dd"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 15",
+  "time": "2025-08-15 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1755253800,
+  "end_time": 1755270000,
+  "rcs_ver": "v3.0",
+  "ing_id": "689ebffd9478cdbd7a8292dc"
+},
+{
+  "_id": {
+    "$oid": "68a34e029478cdbd7a8292df"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 18",
+  "time": "2025-08-18 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1755513000,
+  "end_time": 1755529200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68a2b47d9478cdbd7a8292de"
+},
+{
+  "_id": {
+    "$oid": "68a49f829478cdbd7a8292e1"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 19",
+  "time": "2025-08-19 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1755599400,
+  "end_time": 1755615600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68a405fd9478cdbd7a8292e0"
+},
+{
+  "_id": {
+    "$oid": "68a5f1029478cdbd7a8292e3"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 20",
+  "time": "2025-08-20 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1755685800,
+  "end_time": 1755702000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68a5577d9478cdbd7a8292e2"
+},
+{
+  "_id": {
+    "$oid": "68a742829478cdbd7a8292e5"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 21",
+  "time": "2025-08-21 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1755772200,
+  "end_time": 1755788400,
+  "rcs_ver": "v3.0",
+  "ing_id": "68a6a8fd9478cdbd7a8292e4"
+},
+{
+  "_id": {
+    "$oid": "68a894029478cdbd7a8292e7"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 22",
+  "time": "2025-08-22 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1755858600,
+  "end_time": 1755874800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68a7fa7d9478cdbd7a8292e6"
+},
+{
+  "_id": {
+    "$oid": "68ac88829478cdbd7a8292e9"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 25",
+  "time": "2025-08-25 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1756117800,
+  "end_time": 1756134000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68abeefd9478cdbd7a8292e8"
+},
+{
+  "_id": {
+    "$oid": "68adda029478cdbd7a8292eb"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 26",
+  "time": "2025-08-26 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1756204200,
+  "end_time": 1756220400,
+  "rcs_ver": "v3.0",
+  "ing_id": "68ad407d9478cdbd7a8292ea"
+},
+{
+  "_id": {
+    "$oid": "68af2b829478cdbd7a8292ed"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 27",
+  "time": "2025-08-27 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1756290600,
+  "end_time": 1756306800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68ae91fd9478cdbd7a8292ec"
+},
+{
+  "_id": {
+    "$oid": "68b07d029478cdbd7a8292ef"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 28",
+  "time": "2025-08-28 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1756377000,
+  "end_time": 1756393200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68afe37d9478cdbd7a8292ee"
+},
+{
+  "_id": {
+    "$oid": "68b1ce829478cdbd7a8292f1"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 August 29",
+  "time": "2025-08-29 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1756463400,
+  "end_time": 1756479600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68b134fd9478cdbd7a8292f0"
+},
+{
+  "_id": {
+    "$oid": "68b5c3019478cdbd7a8292f3"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 1",
+  "time": "2025-09-01 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1756722600,
+  "end_time": 1756738800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68b5297d9478cdbd7a8292f2"
+},
+{
+  "_id": {
+    "$oid": "68b714829478cdbd7a8292f5"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 2",
+  "time": "2025-09-02 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1756809000,
+  "end_time": 1756825200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68b67afd9478cdbd7a8292f4"
+},
+{
+  "_id": {
+    "$oid": "68b866029478cdbd7a8292f7"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 3",
+  "time": "2025-09-03 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1756895400,
+  "end_time": 1756911600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68b7cc7d9478cdbd7a8292f6"
+},
+{
+  "_id": {
+    "$oid": "68b9b7829478cdbd7a8292f9"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 4",
+  "time": "2025-09-04 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1756981800,
+  "end_time": 1756998000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68b91dfd9478cdbd7a8292f8"
+},
+{
+  "_id": {
+    "$oid": "68bb09039478cdbd7a8292fb"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 5",
+  "time": "2025-09-05 11:00:03 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1757068200,
+  "end_time": 1757084400,
+  "rcs_ver": "v3.0",
+  "ing_id": "68ba6f7d9478cdbd7a8292fa"
+},
+{
+  "_id": {
+    "$oid": "68befd829478cdbd7a8292fd"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 8",
+  "time": "2025-09-08 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1757327400,
+  "end_time": 1757343600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68be63fd9478cdbd7a8292fc"
+},
+{
+  "_id": {
+    "$oid": "68c04f029478cdbd7a8292ff"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 9",
+  "time": "2025-09-09 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1757413800,
+  "end_time": 1757430000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68bfb57d9478cdbd7a8292fe"
+},
+{
+  "_id": {
+    "$oid": "68c1a0829478cdbd7a829301"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 10",
+  "time": "2025-09-10 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1757500200,
+  "end_time": 1757516400,
+  "rcs_ver": "v3.0",
+  "ing_id": "68c106fd9478cdbd7a829300"
+},
+{
+  "_id": {
+    "$oid": "68c2f2029478cdbd7a829303"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 11",
+  "time": "2025-09-11 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1757586600,
+  "end_time": 1757602800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68c2587d9478cdbd7a829302"
+},
+{
+  "_id": {
+    "$oid": "68c443829478cdbd7a829305"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 12",
+  "time": "2025-09-12 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1757673000,
+  "end_time": 1757689200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68c3a9fd9478cdbd7a829304"
+},
+{
+  "_id": {
+    "$oid": "68c838029478cdbd7a829307"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 15",
+  "time": "2025-09-15 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1757932200,
+  "end_time": 1757948400,
+  "rcs_ver": "v3.0",
+  "ing_id": "68c79e7d9478cdbd7a829306"
+},
+{
+  "_id": {
+    "$oid": "68c989829478cdbd7a829309"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 16",
+  "time": "2025-09-16 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1758018600,
+  "end_time": 1758034800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68c8effd9478cdbd7a829308"
+},
+{
+  "_id": {
+    "$oid": "68cadb029478cdbd7a82930b"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 17",
+  "time": "2025-09-17 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1758105000,
+  "end_time": 1758121200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68ca417d9478cdbd7a82930a"
+},
+{
+  "_id": {
+    "$oid": "68cc2c829478cdbd7a82930d"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 18",
+  "time": "2025-09-18 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1758191400,
+  "end_time": 1758207600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68cb92fd9478cdbd7a82930c"
+},
+{
+  "_id": {
+    "$oid": "68cd7e029478cdbd7a82930f"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 19",
+  "time": "2025-09-19 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1758277800,
+  "end_time": 1758294000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68cce47d9478cdbd7a82930e"
+},
+{
+  "_id": {
+    "$oid": "68d172829478cdbd7a829311"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 22",
+  "time": "2025-09-22 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1758537000,
+  "end_time": 1758553200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68d0d8fd9478cdbd7a829310"
+},
+{
+  "_id": {
+    "$oid": "68d2c4029478cdbd7a829313"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 23",
+  "time": "2025-09-23 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1758623400,
+  "end_time": 1758639600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68d22a7d9478cdbd7a829312"
+},
+{
+  "_id": {
+    "$oid": "68d415829478cdbd7a829315"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 24",
+  "time": "2025-09-24 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1758709800,
+  "end_time": 1758726000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68d37bfd9478cdbd7a829314"
+},
+{
+  "_id": {
+    "$oid": "68d567029478cdbd7a829317"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 25",
+  "time": "2025-09-25 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1758796200,
+  "end_time": 1758812400,
+  "rcs_ver": "v3.0",
+  "ing_id": "68d4cd7d9478cdbd7a829316"
+},
+{
+  "_id": {
+    "$oid": "68d6b8829478cdbd7a829319"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 26",
+  "time": "2025-09-26 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1758882600,
+  "end_time": 1758898800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68d61efd9478cdbd7a829318"
+},
+{
+  "_id": {
+    "$oid": "68daad029478cdbd7a82931b"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 29",
+  "time": "2025-09-29 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1759141800,
+  "end_time": 1759158000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68da137d9478cdbd7a82931a"
+},
+{
+  "_id": {
+    "$oid": "68dbfe829478cdbd7a82931d"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 September 30",
+  "time": "2025-09-30 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1759228200,
+  "end_time": 1759244400,
+  "rcs_ver": "v3.0",
+  "ing_id": "68db64fd9478cdbd7a82931c"
+},
+{
+  "_id": {
+    "$oid": "68dd50029478cdbd7a82931f"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 1",
+  "time": "2025-10-01 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1759314600,
+  "end_time": 1759330800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68dcb67d9478cdbd7a82931e"
+},
+{
+  "_id": {
+    "$oid": "68dea1829478cdbd7a829321"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 2",
+  "time": "2025-10-02 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1759401000,
+  "end_time": 1759417200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68de07fd9478cdbd7a829320"
+},
+{
+  "_id": {
+    "$oid": "68dff3029478cdbd7a829323"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 3",
+  "time": "2025-10-03 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1759487400,
+  "end_time": 1759503600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68df597d9478cdbd7a829322"
+},
+{
+  "_id": {
+    "$oid": "68e3e7819478cdbd7a829325"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 6",
+  "time": "2025-10-06 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1759746600,
+  "end_time": 1759762800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68e34dfd9478cdbd7a829324"
+},
+{
+  "_id": {
+    "$oid": "68e539029478cdbd7a829327"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 7",
+  "time": "2025-10-07 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1759833000,
+  "end_time": 1759849200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68e49f7d9478cdbd7a829326"
+},
+{
+  "_id": {
+    "$oid": "68e68a829478cdbd7a829329"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 8",
+  "time": "2025-10-08 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1759919400,
+  "end_time": 1759935600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68e5f0fd9478cdbd7a829328"
+},
+{
+  "_id": {
+    "$oid": "68e7dc029478cdbd7a82932b"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 9",
+  "time": "2025-10-09 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1760005800,
+  "end_time": 1760022000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68e7427d9478cdbd7a82932a"
+},
+{
+  "_id": {
+    "$oid": "68e92d829478cdbd7a82932d"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 10",
+  "time": "2025-10-10 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1760092200,
+  "end_time": 1760108400,
+  "rcs_ver": "v3.0",
+  "ing_id": "68e893fd9478cdbd7a82932c"
+},
+{
+  "_id": {
+    "$oid": "68ed22029478cdbd7a82932f"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 13",
+  "time": "2025-10-13 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1760351400,
+  "end_time": 1760367600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68ec887d9478cdbd7a82932e"
+},
+{
+  "_id": {
+    "$oid": "68ee73829478cdbd7a829331"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 14",
+  "time": "2025-10-14 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1760437800,
+  "end_time": 1760454000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68edd9fd9478cdbd7a829330"
+},
+{
+  "_id": {
+    "$oid": "68efc5019478cdbd7a829333"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 15",
+  "time": "2025-10-15 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1760524200,
+  "end_time": 1760540400,
+  "rcs_ver": "v3.0",
+  "ing_id": "68ef2b7d9478cdbd7a829332"
+},
+{
+  "_id": {
+    "$oid": "68f116829478cdbd7a829335"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 16",
+  "time": "2025-10-16 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1760610600,
+  "end_time": 1760626800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68f07cfd9478cdbd7a829334"
+},
+{
+  "_id": {
+    "$oid": "68f268029478cdbd7a829337"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 17",
+  "time": "2025-10-17 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1760697000,
+  "end_time": 1760713200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68f1ce7d9478cdbd7a829336"
+},
+{
+  "_id": {
+    "$oid": "68f65c829478cdbd7a829339"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 20",
+  "time": "2025-10-20 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1760956200,
+  "end_time": 1760972400,
+  "rcs_ver": "v3.0",
+  "ing_id": "68f5c2fd9478cdbd7a829338"
+},
+{
+  "_id": {
+    "$oid": "68f7ae029478cdbd7a82933b"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 21",
+  "time": "2025-10-21 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1761042600,
+  "end_time": 1761058800,
+  "rcs_ver": "v3.0",
+  "ing_id": "68f7147d9478cdbd7a82933a"
+},
+{
+  "_id": {
+    "$oid": "68f8ff829478cdbd7a82933d"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 22",
+  "time": "2025-10-22 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1761129000,
+  "end_time": 1761145200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68f865fd9478cdbd7a82933c"
+},
+{
+  "_id": {
+    "$oid": "68fa51019478cdbd7a82933f"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 23",
+  "time": "2025-10-23 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1761215400,
+  "end_time": 1761231600,
+  "rcs_ver": "v3.0",
+  "ing_id": "68f9b77d9478cdbd7a82933e"
+},
+{
+  "_id": {
+    "$oid": "68fba2819478cdbd7a829341"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 24",
+  "time": "2025-10-24 11:00:01 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1761301800,
+  "end_time": 1761318000,
+  "rcs_ver": "v3.0",
+  "ing_id": "68fb08fd9478cdbd7a829340"
+},
+{
+  "_id": {
+    "$oid": "68ff97029478cdbd7a829343"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 27",
+  "time": "2025-10-27 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1761561000,
+  "end_time": 1761577200,
+  "rcs_ver": "v3.0",
+  "ing_id": "68fefd7d9478cdbd7a829342"
+},
+{
+  "_id": {
+    "$oid": "6900e8829478cdbd7a829345"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 28",
+  "time": "2025-10-28 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1761647400,
+  "end_time": 1761663600,
+  "rcs_ver": "v3.0",
+  "ing_id": "69004efd9478cdbd7a829344"
+},
+{
+  "_id": {
+    "$oid": "69023a029478cdbd7a829347"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 29",
+  "time": "2025-10-29 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1761733800,
+  "end_time": 1761750000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6901a07d9478cdbd7a829346"
+},
+{
+  "_id": {
+    "$oid": "69038b829478cdbd7a829349"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 30",
+  "time": "2025-10-30 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1761820200,
+  "end_time": 1761836400,
+  "rcs_ver": "v3.0",
+  "ing_id": "6902f1fd9478cdbd7a829348"
+},
+{
+  "_id": {
+    "$oid": "6904dd029478cdbd7a82934b"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 31",
+  "time": "2025-10-31 11:00:02 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1761906600,
+  "end_time": 1761922800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6904437d9478cdbd7a82934a"
+},
+{
+  "_id": {
+    "$oid": "69050e7955095388a1a57f4a"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 October 31",
+  "time": "2025-10-31 14:31:05 CDT-0500",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1761906600,
+  "end_time": 1761922800,
+  "rcs_ver": "v3.0",
+  "ing_id": "6904437d9478cdbd7a82934a"
+},
+{
+  "_id": {
+    "$oid": "6908df9255095388a1a57f4c"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 November 3",
+  "time": "2025-11-03 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1762169400,
+  "end_time": 1762185600,
+  "rcs_ver": "v3.0",
+  "ing_id": "6908460d55095388a1a57f4b"
+},
+{
+  "_id": {
+    "$oid": "690a311255095388a1a57f4e"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 November 4",
+  "time": "2025-11-04 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1762255800,
+  "end_time": 1762272000,
+  "rcs_ver": "v3.0",
+  "ing_id": "6909978d55095388a1a57f4d"
+},
+{
+  "_id": {
+    "$oid": "690b829255095388a1a57f50"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 November 5",
+  "time": "2025-11-05 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1762342200,
+  "end_time": 1762358400,
+  "rcs_ver": "v3.0",
+  "ing_id": "690ae90d55095388a1a57f4f"
+},
+{
+  "_id": {
+    "$oid": "690cd41255095388a1a57f52"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 November 6",
+  "time": "2025-11-06 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1762428600,
+  "end_time": 1762444800,
+  "rcs_ver": "v3.0",
+  "ing_id": "690c3a8d55095388a1a57f51"
+},
+{
+  "_id": {
+    "$oid": "690e259255095388a1a57f54"
+  },
+  "name": "Avg - PostG",
+  "description": "2025 November 7",
+  "time": "2025-11-07 11:00:02 CST-0600",
+  "batch": "new_sys_9node_exclude_vn7",
+  "start_time": 1762515000,
+  "end_time": 1762531200,
+  "rcs_ver": "v3.0",
+  "ing_id": "690d8c0d55095388a1a57f53"
+}]
