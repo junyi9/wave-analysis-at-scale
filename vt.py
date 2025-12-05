@@ -1,17 +1,16 @@
 
-import numpy as np
-import matplotlib.pyplot as plt
 import math
+from typing import Callable
+
+import matplotlib.pyplot as plt
+import numpy as np
 
 def cubic(p0, p1, p2, p3, x):
     return p1 + 0.5 * x*(p2 - p0 + x*(2.0*p0 - 5.0*p1 + 4.0*p2 - p3 + x*(3.0*(p1 - p2) + p3 - p0)))
 
-
 if False:
     pts = [2, 4, 2, 3, 5, 1, 4]
-
     xa = np.linspace(1, 4.999, 100)
-
     line = []
 
     for x in xa:
@@ -25,45 +24,9 @@ if False:
     plt.show()
     exit()
 
-
-# sf = np.load('68c1a0829478cdbd7a829301_WB_L2_smooth.npy')
-sf = np.load('smooth/66477985b476f991aef3d7f0_WB_L2_smooth.npy')
-
-print('Original:', sf.shape)
-
-sf = sf[:200,]
-
-print(sf.shape)
-
-x_len = 4.0 # miles
-t_len = 4.5*3600 #4.5*3600 # seconds
-t_step = 0.1 # simulation step in seconds
-
-x_scale = x_len / sf.shape[0]
-print("x_scale:" + str(x_scale))
-
-t_scale = t_len / sf.shape[1]
-print("t_scale:" + str(t_scale))
-print(x_scale, t_scale)
-
-x_scale = -x_scale # WB.. negative speed
-
-# units in matrix grid/pixels!
-x_start = 195
-t_start = 1200/5
-
-path = []
-path_speed = []
-
-x_hits = []
-t_hits = []
-
-# get speed directly (nearest neighbour)
 def get_speed_nn(mat, x, t):
-    
-    x_hits.append(round(x))
-    t_hits.append(round(t))
-    
+    """Nearest-neighbour lookup of the speed field."""
+
     return mat[round(x), round(t)]
 
 # linear interpolation (e.g. https://en.wikipedia.org/wiki/Bilinear_interpolation#Example)
@@ -91,6 +54,7 @@ def get_speed_lin(mat, x, t):
         print(mat[x0, t1], mat[x1, t1])
         print(it0, it1, it)
         print(dx, dt)
+        it = 0.0
     
     return it
 
@@ -122,44 +86,123 @@ def get_speed_bc(mat, x, t):
     
     return it
 
-get_speed = get_speed_bc
-    
-def gen_VT(x_start, t_start, sf, t_step = 0.1, x_scale = x_scale, t_scale = t_scale):
+INTERPOLATION_METHODS = {
+    "nearest": get_speed_nn,
+    "linear": get_speed_lin,
+    "bicubic": get_speed_bc,
+}
+
+
+def gen_VT(
+    x_start: float,
+    t_start: float,
+    sf: np.ndarray,
+    *,
+    t_step: float,
+    x_scale: float,
+    t_scale: float,
+    speed_lookup: Callable[[np.ndarray, float, float], float],
+):
     """Generate a single virtual trajectory via repeated interpolation lookups."""
-    
+
     path = []
     path_speed = []
-    
+
     x = x_start
     t = t_start
-    while (x>1 and x < sf.shape[0]-2) and (t<sf.shape[1]-1):
-        
+    while (x > 1 and x < sf.shape[0] - 2) and (t < sf.shape[1] - 1):
+
         path.append([x, t])
-        
-        speed = get_speed(sf, x, t)
-        
+
+        speed = speed_lookup(sf, x, t)
+
         path_speed.append(speed)
-        # print(x, speed, t_step, x_scale)
-        # print(t_step * speed * x_scale)
-        x += t_step * speed / 3600 / x_scale # mph/h
-        # x += t_step * speed / x_scale # mile per s
+        # Integrate through the grid (mph to miles-per-step, then into grid units)
+        x += t_step * speed / 3600 / x_scale
         t += t_step / t_scale
-        print(x)
-        print(t)
-        # break
-        # print(x, t, speed)
-        
-    # save the data for later use
-        
-    path = np.array(path)
-    path_speed = np.array(path_speed)
-    # add unit to the path, path first column is space and it should be in 0.02*(200-index)
-    path[:,0] = 0.02*(200-path[:,0])
-    path[:,1] = path[:,1]*5
-    traj = np.column_stack((path, path_speed))
-    
+
+    path = np.array(path, dtype=float)
+    path_speed = np.array(path_speed, dtype=float)
+
+    return path, path_speed
+
+
+def generate_virtual_trajectory(
+    smooth_field: np.ndarray,
+    x_start: float,
+    t_start: float,
+    *,
+    x_len: float = 4.0,
+    t_len: float = 4.5 * 3600,
+    t_step: float = 0.1,
+    interpolation: str = "bicubic",
+    westbound: bool = True,
+    convert_units: bool = True,
+) -> np.ndarray:
+    """Generate a virtual trajectory for a pre-loaded smoothed speed field."""
+
+    if smooth_field.ndim != 2:
+        raise ValueError("smooth_field must be a 2D array")
+
+    try:
+        speed_lookup = INTERPOLATION_METHODS[interpolation.lower()]
+    except KeyError as exc:
+        raise ValueError(f"Unsupported interpolation '{interpolation}'") from exc
+
+    seconds_per_column = t_len / smooth_field.shape[1]
+    miles_per_row = x_len / smooth_field.shape[0]
+    grid_x_scale = -miles_per_row if westbound else miles_per_row
+
+    path, speeds = gen_VT(
+        x_start,
+        t_start,
+        smooth_field,
+        t_step=t_step,
+        x_scale=grid_x_scale,
+        t_scale=seconds_per_column,
+        speed_lookup=speed_lookup,
+    )
+
+    if path.size == 0:
+        return np.empty((0, 3))
+
+    if convert_units:
+        path = path.copy()
+        path[:, 1] *= seconds_per_column
+        if westbound:
+            path[:, 0] = miles_per_row * (smooth_field.shape[0] - path[:, 0])
+        else:
+            path[:, 0] = miles_per_row * path[:, 0]
+
+    traj = np.column_stack((path, speeds))
+
     return traj
 
-traj = gen_VT(x_start, t_start, sf, t_step=t_step, x_scale=x_scale, t_scale=t_scale)
-# print(traj.shape)
-np.savetxt('vt.csv', traj, delimiter=',', header='space,time,speed', comments='')
+
+if __name__ == "__main__":
+    # as a demo
+    x_len = 4.0  # miles
+    t_len = 4.5 * 3600  # seconds
+    t_step = 0.1  # simulation step in seconds
+
+    sf = np.load('smooth/66477985b476f991aef3d7f0_WB_L2_smooth.npy')
+    sf = sf[:200,]
+
+    x_start = 197 # index
+    t_start = 600 # index
+    traj = generate_virtual_trajectory(
+        sf,
+        x_start,
+        t_start,
+        x_len=x_len,
+        t_len=t_len,
+        t_step=t_step,
+        interpolation="bicubic",
+        westbound=True,
+        convert_units=True,
+    )
+
+    plt.scatter(traj[:, 1], traj[:, 2], c=traj[:, 2], s=1, cmap='jet_r')
+    plt.savefig('vt.png', dpi=300)
+    plt.close()
+    np.savetxt('vt.csv', traj, delimiter=',', header='space,time,speed', comments='')

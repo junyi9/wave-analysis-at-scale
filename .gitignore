@@ -13,6 +13,7 @@ wheels/
 data/
 *.npy
 *.csv
+*.png
 
 # Figure
 figures/
