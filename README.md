@@ -1,6 +1,9 @@
-# Traffic Analysis Tools
+# Large-Scale Traffic Wave Analysis Tools
 
-This repository contains tools for analyzing traffic wave patterns and vehicle trajectories.
+This repository contains tools for analyzing traffic wave patterns and vehicle trajectories for hundreds of days.
+
+## Statement
+To be transparent, this README was generated automatically by GitHub Copilot. Some details may be incorrect. I’ll add a review badge after I finish verifying it.
 
 ## Input Data Structure
 
