@@ -67,7 +67,7 @@ def decompose_trajectory_fixed(
 
 
 def sgwcc_extract_wave_points(
-    data: pd.DataFrame, seg_speed: float = 15, speed_tolerance: float = 2.0
+    data: pd.DataFrame, seg_speed: float = 15, speed_tolerance: float = 5.0
 ) -> Tuple[pd.DataFrame, pd.DataFrame]:
     """Extract wave front and tail points from vehicle trajectory data.
 
@@ -207,19 +207,21 @@ def sgwcc_pair_wave_points(
 
 
 def sgwcc_trace_wave_trajectory(
-    wave_data: pd.DataFrame, max_time_delta: float = 15, max_space_delta: float = 0.05
+    wave_data: pd.DataFrame, window_time_ahead: float = 15, window_time_behind: float = 5, window_space_ahead: float = 0.02, window_space_behind: float = 0.05
 ) -> List[List]:
     """Trace wave trajectory across consecutive vehicle detections.
 
     Connects wave observations from consecutive vehicles based on spatio-temporal proximity.
 
     Args:
-        wave_data: DataFrame with wave points (time, space, v_id, unique_index, mask).
-        max_time_delta: Maximum time difference between consecutive detections (seconds).
-        max_space_delta: Maximum space difference between consecutive detections (miles).
+        wave_data: DataFrame with wave points (time, space, vehicle_index, unique_index, mask).
+        window_time_ahead: Time window ahead for matching consecutive detections (seconds).
+        window_time_behind: Time window behind for matching consecutive detections (seconds).
+        window_space_ahead: Space window ahead for matching consecutive detections (miles).
+        window_space_behind: Space window behind for matching consecutive detections (miles).
 
     Returns:
-        List of traces, each containing [time, space, v_id, trace_id, unique_id].
+        List of traces, each containing [time, space, vehicle_index, trace_id, unique_id].
     """
     trace = []
     lane_wave = wave_data.copy()
@@ -255,10 +257,10 @@ def sgwcc_trace_wave_trajectory(
 
             vt_data = lane_wave[lane_wave["vehicle_index"] == vt_index]
             local_data = vt_data[
-                (vt_data["time"] <= time + max_time_delta)
-                & (vt_data["time"] >= time - max_time_delta * 0.33)
-                & (vt_data["space"] >= space - max_space_delta)
-                & (vt_data["space"] <= space + max_space_delta * 0.4)
+                (vt_data["time"] <= time + window_time_ahead)
+                & (vt_data["time"] >= time - window_time_behind)
+                & (vt_data["space"] >= space - window_space_ahead)
+                & (vt_data["space"] <= space + window_space_behind)
             ].sort_values(by="time", ascending=False)
 
             vt_index_old = vt_index

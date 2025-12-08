@@ -129,11 +129,12 @@ if __name__ == "__main__":
     # Example 1: Process all run IDs with default settings
     batch_process(
         file_path="/data/vt_data",
-        file_root_local="results",
-        seg_speeds=[15],
+        # file_root_local="results",
+        file_root_local="/data/sgw_results",
+        seg_speeds=[1, 5, 10, 15],
         run_ids=None,  # Auto-detect all
         lane_numbers=[1, 2, 3, 4],
-        speed_tolerance=5.0,
+        speed_tolerance=2.0,
     )
     end = time.perf_counter()
     print(f"Total execution time: {end - start:.2f} seconds")

@@ -22,7 +22,7 @@ vt_data/
 │   └── ...
 ```
 
-Each `vt_all.csv` must contain columns: `v_id`, `time`, `space`, `speed`.
+Each `vt_all.csv` must contain columns: `vehicle_index`, `time`, `space`, `speed`.
 
 ## Modules
 

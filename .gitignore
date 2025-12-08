@@ -18,3 +18,4 @@ data/
 # Figure
 figures/
 *.pdf
+extract_wave_pdfs.py
