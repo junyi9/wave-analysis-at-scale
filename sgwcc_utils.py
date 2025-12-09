@@ -1,5 +1,5 @@
 """
-Utility functions for identifying stop-and-go wave connected components (SGWCC).
+Utility functions for identifying stop-and-go wave connected components (SGW-CC).
 
 This module provides functions for analyzing vehicle trajectories, identifying
 wave fronts/tails, and tracking their propagation patterns in traffic flow data.
@@ -58,7 +58,7 @@ def decompose_trajectory_fixed(
     """
     mean_speed = fixed_speed / 3600  # Convert mph to miles per second
     vt_sample["average_speed"] = mean_speed
-    initial_space = vt_sample["space"].max()
+    initial_space = vt_sample["space"].min()
     vt_sample["nominal_space"] = (
         - initial_space + mean_speed * (vt_sample["time"] - vt_sample["time"].min())
     )
@@ -155,18 +155,38 @@ def sgwcc_pair_wave_points(
         )
         vehicle_data = vehicle_data.sort_values(by="time").reset_index(drop=True)
 
-        if len(vehicle_data) <= 1:
+        # Ensure we start with a front (1) and end with a tail (2)
+        # by trimming incomplete leading/trailing points.
+        if len(vehicle_data) < 1:
             continue
 
-        # Remove leading tail if present
-        if vehicle_data["wave_type"].iloc[0] == 2:
-            vehicle_data = vehicle_data.iloc[1:].reset_index(drop=True)
-            vehicle_data = vehicle_data.sort_values(by="time", ascending=False).reset_index(
-                drop=True
-            )
-            if len(vehicle_data) > 0 and vehicle_data["wave_type"].iloc[0] == 1:
-                vehicle_data = vehicle_data.iloc[1:].reset_index(drop=True)
+        # Helper to drop first/last row safely
+        def drop_first(df: pd.DataFrame) -> pd.DataFrame:
+            return df.iloc[1:].reset_index(drop=True)
 
+        def drop_last(df: pd.DataFrame) -> pd.DataFrame:
+            return df.iloc[:-1].reset_index(drop=True)
+
+        # 1) Fix leading part: we want the first element to be a front (1)
+        vehicle_data = vehicle_data.sort_values(by="time").reset_index(drop=True)
+        while len(vehicle_data) > 1 and vehicle_data["wave_type"].iloc[0] == 2:
+            vehicle_data = drop_first(vehicle_data)
+
+        # 2) Fix trailing part: we want the last element to be a tail (2)
+        while len(vehicle_data) > 1 and vehicle_data["wave_type"].iloc[-1] == 1:
+            vehicle_data = drop_last(vehicle_data)
+
+        # Re-check after trimming; if not enough points remain, skip
+        if len(vehicle_data) < 1:
+            continue
+
+        # Final safety: if after trimming we still don't start with front
+        # and end with tail, skip this vehicle
+        if not (
+            vehicle_data["wave_type"].iloc[0] == 1
+            and vehicle_data["wave_type"].iloc[-1] == 2
+        ):
+            continue
         # Split and align fronts/tails
         vehicle_front = (
             vehicle_data[vehicle_data["wave_type"] == 1]
@@ -179,7 +199,7 @@ def sgwcc_pair_wave_points(
             .reset_index(drop=True)
         )
 
-        if len(vehicle_front) > 0 and len(vehicle_tail) > 0:
+        if len(vehicle_front) >= 1 and len(vehicle_tail) >= 1:
             vehicle_pair_data = pd.concat([vehicle_front, vehicle_tail], axis=1).reset_index(
                 drop=True
             )
@@ -207,7 +227,7 @@ def sgwcc_pair_wave_points(
 
 
 def sgwcc_trace_wave_trajectory(
-    wave_data: pd.DataFrame, window_time_ahead: float = 15, window_time_behind: float = 5, window_space_ahead: float = 0.02, window_space_behind: float = 0.05
+    wave_data: pd.DataFrame, window_time_ahead: float = 30, window_time_behind: float = 5, window_space_ahead: float = 0.02, window_space_behind: float = 0.10
 ) -> List[List]:
     """Trace wave trajectory across consecutive vehicle detections.
 
@@ -259,8 +279,8 @@ def sgwcc_trace_wave_trajectory(
             local_data = vt_data[
                 (vt_data["time"] <= time + window_time_ahead)
                 & (vt_data["time"] >= time - window_time_behind)
-                & (vt_data["space"] >= space - window_space_ahead)
-                & (vt_data["space"] <= space + window_space_behind)
+                & (vt_data["space"] >= space - window_space_behind)
+                & (vt_data["space"] <= space + window_space_ahead)
             ].sort_values(by="time", ascending=False)
 
             vt_index_old = vt_index
@@ -481,7 +501,7 @@ def sgwcc_process_file(
 
 
 def sgwcc_identify_connected_components(
-    pair_data: pd.DataFrame, max_iterations: int = 300
+    pair_data: pd.DataFrame, max_iterations: int = 1000
 ) -> Tuple[List[int], List[int], List[List[int]]]:
     """Identify connected components of wave fronts and tails.
 
@@ -623,11 +643,12 @@ def sgwcc_visualize_connected_components(
                 alpha=0.5,
                 s=50,
             )
-            # Label component
-            plt.text(
-                front_data["time_front"].min() - 150,
-                front_data["space_front"].min(),
-                f"C{c_id}",
+            # c_id every 5
+            if c_id % 5 == 0:
+                plt.text(
+                    front_data["time_front"].min() - 150,
+                    front_data["space_front"].max(),
+                    f"C{c_id}",
                 fontsize=50,
             )
 

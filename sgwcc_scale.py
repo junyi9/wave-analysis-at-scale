@@ -125,26 +125,27 @@ import time
 
 
 if __name__ == "__main__":
-    start = time.perf_counter()
-    # Example 1: Process all run IDs with default settings
-    batch_process(
-        file_path="/data/vt_data",
-        # file_root_local="results",
-        file_root_local="/data/sgw_results",
-        seg_speeds=[1, 5, 10, 15],
-        run_ids=None,  # Auto-detect all
-        lane_numbers=[1, 2, 3, 4],
-        speed_tolerance=2.0,
-    )
-    end = time.perf_counter()
-    print(f"Total execution time: {end - start:.2f} seconds")
+    # start = time.perf_counter()
+    # # Example 1: Process all run IDs with default settings
+    # batch_process(
+    #     file_path="/data/vt_data",
+    #     # file_root_local="results",
+    #     file_root_local="/data/sgw_results",
+    #     seg_speeds=[15],
+    #     run_ids=None,  # Auto-detect all
+    #     lane_numbers=[1,2,3,4],
+    #     speed_tolerance=5.0,
+    # )
+    # end = time.perf_counter()
+    # print(f"Total execution time: {end - start:.2f} seconds")
     
     # Example 2: Process specific run IDs and speeds
-    # batch_process(
-    #     file_path="vt_data",
-    #     file_root_local="results",
-    #     seg_speeds=[10, 15, 20, 25],
-    #     run_ids=["66477985b476f991aef3d7f0", "664b852bb476f991aef3d7f4"],
-    #     lane_numbers=[2, 3],
-    #     speed_tolerance=7.0,
-    # )
+    batch_process(
+        file_path="/data/vt_data",
+        file_root_local="sgw_results",
+        seg_speeds=[15],
+        run_ids=["66a3c80203742ba297d3c2c3","66e06d0203742ba297d3c30a"],
+        # run_ids=["66a3c80203742ba297d3c2c3"],
+        lane_numbers=[1],
+        speed_tolerance=5.0,
+    )
