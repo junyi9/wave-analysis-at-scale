@@ -161,6 +161,25 @@ Identifies connected components by:
 ### `sgwcc_extract_wave_points()`
 Low-level function to extract individual wave observations with custom parameters.
 
+
+
+
+## Output data format README
+
+This file describes the columns in `CC_15.csv`, produced by `sgwcc_stitch_components` for each run. It captures connected stop-and-go wave components traced at segmentation speed 15 mph.
+
+## Column Reference
+- `time_front`, `time_tail`: Time of the wave front/tail (seconds from the analysis start (seconds since the start time in each RUN_ID)). 
+- `space_front`, `space_tail`: Space position (miles) in the same coordinate system as the input trajectories (now 0–4, if I didn't mess it up it should be the miles from 62.7 but this needs double check); maybe a translation from 62.7 minus the value can translate to our usual milemaker system;
+- `speed_front`, `speed_tail`: Vehicle speed (mph) at the detected front/tail point. Note this might not be the exact speed, e.g. 15mph, since it is the point before entering the countour;
+- `v_id_front`, `v_id_tail`: Vehicle index of the detected front/tail belong to.
+- `wave_type_front`, `wave_type_tail`: Wave marker (1 = front, 2 = tail).
+- `lane_front`, `lane_tail`: Lane number from the input lane file (e.g., `lane_1`).
+- `unique_index_front`, `unique_index_tail`: Unique point indices assigned when wave points were first saved.
+- `trace_id_front`, `trace_id_tail`: Trace identifiers linking the front/tail "trajectories" across vehicles for fronts and tails respectively.
+- `c_id`: Connected component identifier; all rows sharing the same `c_id` belong to the same stop-and-go wave component.
+
+
 ## Requirements
 
 - Python 3.8+

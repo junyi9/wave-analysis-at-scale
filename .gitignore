@@ -19,3 +19,5 @@ data/
 figures/
 *.pdf
 extract_wave_pdfs.py
+sgw_results/wave_cluster/README.md
+sgw_results/
