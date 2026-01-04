@@ -144,8 +144,8 @@ if __name__ == "__main__":
         file_path="/data/vt_data",
         file_root_local="sgw_results",
         seg_speeds=[15],
-        run_ids=["66a3c80203742ba297d3c2c3","66e06d0203742ba297d3c30a"],
+        run_ids=["66e06d0203742ba297d3c30a","6900e8829478cdbd7a829345"],
         # run_ids=["66a3c80203742ba297d3c2c3"],
-        lane_numbers=[1],
+        lane_numbers=[1,2,3,4],
         speed_tolerance=5.0,
     )

@@ -23,7 +23,7 @@ def _init_worker(npy_path,
 
     global _WORKER_SF, _WORKER_PARAMS
 
-    _WORKER_SF = np.load(npy_path, mmap_mode='r')
+    _WORKER_SF = np.load(npy_path, mmap_mode='r')*3600/5280
     _WORKER_PARAMS = {
         "x_start": x_start,
         "x_len": x_len,
@@ -80,6 +80,7 @@ def process_file(file_base,
     """
     npy_path = os.path.join("smooth", f"{file_base}_{lane}_smooth.npy")
     sf = np.load(npy_path, mmap_mode='r')
+    sf = sf*3600/5280 # convert to mi/h
 
     out_dir = os.path.join(out_dir_base, file_base, lane)
     os.makedirs(out_dir, exist_ok=True)

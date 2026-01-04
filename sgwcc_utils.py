@@ -227,7 +227,7 @@ def sgwcc_pair_wave_points(
 
 
 def sgwcc_trace_wave_trajectory(
-    wave_data: pd.DataFrame, window_time_ahead: float = 30, window_time_behind: float = 5, window_space_ahead: float = 0.02, window_space_behind: float = 0.10
+    wave_data: pd.DataFrame, window_time_ahead: float = 30, window_time_behind: float = 5, window_space_ahead: float = 0.02, window_space_behind: float = 0.15
 ) -> List[List]:
     """Trace wave trajectory across consecutive vehicle detections.
 
